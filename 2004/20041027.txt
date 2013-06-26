@@ -1,0 +1,184 @@
+General meeting minutes for 2004-10-27 (Wednesday)
+
+==========
+Attendance
+==========
+Name			Email		Affiliation
+----------------------------------------------------------------
+Yang Zhao		yangz		Pirate Ninja Robot Monkey
+Dan Leslie		dleslie		Blue
+Jeremy Holman		jholman		cmpt301
+Diego Fort		dfortcil	major
+Fil Maj			fmaj		Counter-Strike
+Jeff Sipko		jsipko		major
+Travis Brown		travisb		major
+Courteney Ryan		ceryan		major
+Tim Kim			tkim1		Timbo
+Dominic Lau		dominicl	blargh
+Trevor MacPhail		tmmacpha	major
+Sepand Gojgini		sgojini		major
+Eugene Chin		ehc		major
+Ryan Sikma		rtsikma		major
+Nhan Nguyen		tnn		major
+Xiaodi Sun		xiaodis		major
+James Carrothers	jimc		major
+Angelica Lim		alimb		major
+John Boxall		jrboxall	jor
+Michele Lee		mleet		major
+Sara Gouneili		sgouneil	major
+Johnson Yang		jyang		major
+Marcel Guzman		mguzman		major
+Eli Sakamoto		esakamot	colonel
+Noah Adams		nba		major
+
+
+Meeting called to order by Noah at 15:32
+
+==================
+Report of officers
+==================
+
+** President: Angelica **
+There has apparently been people who are throwing stuff from the lower- to the upper-level in the ASB atrium. It's a safety concern, so if they're seen doing it again, feel free to warn and stop them.
+
+Also, there was an injury in the atrium involving tables and walking into said tables. Please avoid playing Sokoban in the atrium with furniture.
+
+Vancouver Software Developers Forum (VanDev) approached Angelica about having us as sponsors so that they can book meetings at Harbour Centre. Should be acceptable for joint-events. Not much information about VanDev since they're just starting up.
+
+CSSS Merchandizes:
+Angelica needs volunteers to help with hoodie purchasing and stuff, most likely from T-shirt.ca again. John volunteers.
+
+Ski Trip:
+Sign-up sheet goes around.
+
+
+** VP Operations: Noah **
+Attended school meeting last week, which was, and I quote, "dreadfully, dreadfully boring -- Oh My God!" They're currently in the process of finding a new director, and a committee for searching for people to search for a new director is being formed. Yay for the bureaucratic process!
+
+Task 1 building construction is ahead of schedule. We'll get half of it, and there'll be no more long walks to the MTF, and there will be much rejoicing. It was scheduled to finish next September, might finish in Summer instead.
+
+Angelica starts taking pictures, and people duck fearing for their souls.
+
+Stuff has been happening in Surrey -- they're having difficulties with deciding who teaches what.
+
+About Task-1 again: some labs need to be moved to allow wheel chair access.
+Also, it's rumoured that the grads won't have a common room, and one of ours
+will be taken over.
+
+A recent UCC meeting was missed because of class. Jeremy initiates verbal
+attack with don't-pretend-you're-actually-going-to-class; Noah parries with
+that's-because-you've-missed-the-ones-I-attended. Noah wins by a sliver.
+Anyways, a regular joint major with math is being considered, as well as a joint major with philosophy. Also, the school is looking into holding a retreat.
+
+
+** VP Activities: Jeff **
+Aside from the giant mob during last week's Shaolin Soccer movie Friday, nothing exciting happened.
+
+Friday is Halloween event thingy. Dress up and what-not.
+
+The Incredibles movie night is happening on Nov 5th. Ticket price to be determined.
+
+LAN party being planned for Nov 12th. Info will be emailed.
+
+
+** VP Resource: Travis **
+Costco run was made for cheap pop last week. There'll be some photocopier discussion during open floor.
+
+
+** Treasurer: Eugene **
+Deposits are getting healthier. Approximately $1571 in account, not counting stuff that need to be paid in the near future. Funding for Week of Welcome also finally came in.
+
+Still losing $60/week on pizza; Jeff hasn't had a chance to talk to Papa Joe's yet.
+
+
+** Exec @ Large: Timbo **
+Keys to the new cabinet has been distributed, but there aren't enough file racks, stalling the transfer of documents. Trevor might have a spare he's willing to donate. 
+
+
+** Secretary: Yang **
+The bulletin board outside the common room finally has stuff on it. Yay, stuff!
+
+Also, there was a discussion at the last UCC meeting about the proposal of a joint degree program with ZheJiang university in China.
+
+
+=============
+New CSSS Logo
+=============
+New logo is done, now complete with a robot. It also now correctly says ComputING Science.
+
+
+=============
+Charity Event
+=============
+CSSS has traditionally donated money to Child Care Centre and Food Bank regularly -- it's time for something more.
+
+Possibly challenge engineers to a food-drive show-down. Dan can also ask in Forums for interested unions.
+
+Jeremy is terrified by the fact that Dan is our forum rep.
+
+Noah will bug engineers about it.
+
+
+===================
+Approval of Minutes
+===================
+Dan motions to approve the minutes with the correction that Jim's name be added to the attendance list: Jeremy seconds. Approved.
+
+
+==========
+Open Floor
+==========
+
+Travis: Photocopier stuff
+--------------------------
+Needs to let Minolta know about our decision by Friday.
+
+Currently it's costing us $290/month @ .8 cents per page.
+
+Option 1: Releasing current machine @ $217/month
+Option 2: Lease refurbished machine with double sided printing, same coin op, $218/month -- $345/month with new coin-op
+
+Lease would be for 36 months.
+
+There is also the option for black-and-white digital copier for $334/month
+for 66 months. Costs more per page, and slower for single-copies.
+
+It's estimated that the photocopier currently nets ~20000page/month @ 3 cents/page, ignoring lease payments.
+
+Travis recommends that we acquire the refurbished copier while keeping the current coin-op, no document feeder, keeping the price of 5 cents per copy.
+
+Jeremy motions to accept the VPR's recommendation for the photocopier lease renewal negotiation: Dan seconds. Approved.
+
+
+John: Star Wars movies night
+---------------------------
+John is planning a Star Wars movies night, now that the new DVDs are released. Date is Nov 6th. K9500 has already been booked for this.
+
+John motions for a budget of $60 to purchase edible goods for the Star Wars movie night: Angelica seconds. Approved.
+
+
+Dan: Student Unions Forum
+-------------------------
+There was a meeting recently, and nothing really important to us was discussed. However, Dan did manage to strategically plug our photocopier into the meeting. Please let Dan know of any issues that should be discussed.
+
+On Nov 3rd, there will be a meeting of the university's director and student unions. Email Dan with questions that should be asked.
+
+
+Eugene: Core Funding
+--------------------
+We currently have $600 of core funding, but minutes outlining what we're going to spend the money on is required before they'll give it to us. Money will be put towards the semester-end social.
+
+
+Dominic: WICS Language Study Group
+----------------------------------
+WICS's PHP study group for tonight is a go. It will be taught by Rob in the MTF.
+
+
+Angelica: CUTC
+--------------
+Ask angelica for trip funding forms.
+
+
+Angelica motions to adjourn: no objections.
+
+Meeting adjourned at 16:24.
