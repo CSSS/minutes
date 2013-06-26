@@ -1,0 +1,210 @@
+
+General meeting minutes for 2005-02-02 (Wednesday)
+
+==========
+Attendance
+==========
+Name			Email		Affiliation
+----------------------------------------------------------------
+Jeff Sipko		jsipko		#1
+Yang Zhao		yangz		Sombreroman needs to be Polar Plunged!
+Dominic Lau		dominicl	Dom
+Fil Maj			fmaj		Counter Strike & Marijuana Party
+Mark Thomson		mst		MAJOR
+Pouya Bastani		pbastani	CMPT Major
+Bishnu Bhattacharyya	bbhattac	Asts Major
+Trevor MacPahil		tmmacpha	Major
+Michael Schwartz	mpschwar	major
+Tim Kim			tkim1		Heywood Jablowne
+Eugene Chin		ehc		Master of the Universe
+Andrew Kumar		aak2		huh?
+Josephine Wong		jwongs		SFSS AppSci rep
+Angelica Lim		alimb		da prez
+Dragoljub Profirovic	dprofiro	...
+James Carrothers	jimc		Major
+John Boxall		jrboxall	Major
+Travis Brown		travisb		Money Maker
+Max Whitney		mwhitney	major
+Sepand Gojgini		sgojgini	Major
+Noah Adams		nba		major
+
+
+Meeting called to order by Noah at 15:38
+
+==================
+Report of officers
+==================
+
+** President: Angelica **
+Angelica has in her possession a doughnut which needs a good home. Yang
+acquires it by being the first to put up his hand. Mmm... doughnut...
+
+De-noob week was a great success; hooray to Travis, Benton, Bishnu, and Yang for teaching, and Nikki for taking the lead. The elusive Ivan Sim, however, was a no-show. In the future please do continue running these educational events.
+
+The spankin' new CS brochure is ready. It's shiny and has pictures.
+
+Foosball table in the MTF is in rough shape: should look into getting it replaced.
+
+
+** VP Operations: Noah **
+Lots of promotional things happened for joint student society events. Hooray for other people doing work!
+
+AppSci Pub Night is scheduled for Feb 25th. Kinesiology has said yes, but hasn't confirmed. Communications is still refusing to actually do some communicating.
+
+Formal banquet will be on April 22nd. First meeting this Friday in pub.
+
+The VPO will be attending grad meeting next March. Since they don't do a whole lot, attempts will be made to draw in the grads that want more stuff to happen.
+
+
+** VP Resource: Travis **
+Photocopier is still missing a coin-op. Minolta has been bugged daily, sometimes more. Thanks go out to the numerous human coin-ops.
+
+The pop supply actually ran out last week because Coke messed up, majorly. Fruitopia seems to be very popular, so more will be bought.
+
+lemma was hit "a little hard" after CUTC. A memory upgrade will take place next Thursday, so please donate any PC100/133 RAM you may have.
+
+Random fruity is now 75 cents, and Nestea is 80.
+
+
+** VP Activities: Jeff **
+*does the robot*
+
+Sat. Feb 26 is snow tubing @ Seymour. Cost is $11/2hr for people higher than 4'11".
+
+Has been looking into on-line video rental. Zip.ca offers unlimited rentals for $24/mo., which is a lot cheaper than what we currently pay at Rogers.
+
+Jeff motions for $75 for a 3 month prepaid zip.ca subscription; Travis seconds.
+Motion carries.
+
+
+** Treasurer: Eugene **
+Some execs have been neglecting to write dates on cheques, namely Angelica and Travis. Some glaring happens.
+
+Photocopier money still can't be rolled due to the whole not having a coin-op and needing lot of change.
+Hoodie money will be deposited this week.
+
+Pizza was paid with cheque instead of cash last week, so that'll get balanced out too.
+
+Travel funding: the policy is that they be counted when the money is picked, not when it's requested. There's $100 allocated to Bistra, which was apparently picked up in May 2004, draining some money out of this fiscal year. There seems to be some problem with bookkeeping, and the minutes approving the funding is yet to be located.
+
+Core funding can be used for formal.
+
+There is roughly $1500 that can still be allocated.
+
+
+** Exec @ Large: Tim **
+Tim enjoys Five Alive: Passionate Peach, a lot:
+"I would like to take this opportunity to show you the new Five Alive: Passionate Peach. It has a distinct peach flavour and a nice passion fruit tang to it. Not to mention the combined juiciness of grapes and oranges. There is also a slight tinge of lemon in there as well. Out of a possible 5, I rate this as a 4.6."
+
+** Secretary: Yang **
+There were no emails in the last two weeks about minutes corrections -- it was relieving yet also somewhat scary.
+
+
+=======================
+Committee Rep Elections
+=======================
+Undergraduate Programming Committee/Undergraduate Curriculum Committee
+Nominees:
+ - Noah by Angelica, seconded by Jim
+ - Yang by Eugene, seconded by Jeff
+ - Travis by himself, seconded by Max
+ - Trevor by himself, seconded by Bishnu
+
+Capital Resources Committee
+Nominees:
+ - Travis by himself, seconded by Max
+
+While preparations for casting ballots are made, Angelica attempts to snatch the Polar Plunge bear. Eugene and Noah quickly restrain her and the animal is handed off to Yang for safe keeping.
+Bad president! Bad!
+
+Noah and Yang are voted the positions of UPC/UCC reps.
+Travis is voted to the position of CRC rep.
+
+
+===================================
+CS Merchandise Coordinator Position
+===================================
+Amanda (the Academic and Financial Planning Manager for CS) proposed that we
+do CS merchandising similar to Business: sales through website, school
+provides capital, and students distribute the goods; the student society takes
+all net profit. Andrew adds that the original reason the school stepped in was to unify merchandising between the different clubs.
+
+Need someone to get in touch of Amanda and find what we can get.
+
+John agrees to take on the position, and is a bit disappointed that he doesn't get to make a campaign speech, but does one anyway:
+
+(John's speech, heavily paraphrased)
+Remember Star Wars? Well, business is the dark side: it's all about money and greed. And then you have CS: pure, good, and not as gay as Skywalker.
+We're talking about going over to the dark side here; once we have a taste, we won't go back.
+Free source goes out the window, and we all go over to MicroSoft.
+
+Jeff: ``Hooray!''
+Tim, pointing at Jeff: ``You're a joint major!''
+
+
+Angelica motions to appoint John Boxall the CS Merchandise Coordinator
+Position; a random non-StarWars-related humanoid seconds.
+Motion carries.
+
+
+==============================
+CSSS Activity @ FAS Open House
+==============================
+Highschoolers coming up this Saturday to learn about the wondrous things we do here at the Faculty of Applied Science. The school wants us to host something fun at our booth. Cotton candy has already been arranged.
+
+Ideas from the floor: geek pictionary, floppy tower w/ infinite tape
+
+Volunteers: Noah, Travis, Bishnu, Trevor, Eugene, Yang, Andrew
+
+
+============
+Polar Plunge
+============
+Polar Plunge is this Friday: meet @ 11:15 in the ASB for the parade
+
+There's a follow-up social at 4:30pm.
+
+Travis motions to allocate $50 for cookies for Polar Plungers; John seconds.
+Motion carries.
+
+Sepand will help acquire cookies.
+
+Do dress up in silly outfits, but don't wear body paints because we'd like to keep the pond contamination-free.
+
+Eugene motions to allocate up to $250 for donating to the Variety Club on behalf of the CSSS executives participating in Polar Plunge; Angelica seconds.
+Motion carries.
+
+==========
+Frosh Week
+==========
+Travis says we need to start planning earlier for Frosh Week so it's even better that last year, but doesn't want to be responsible, so asks for volunteers to be chair. Noah steps up to the challenge and is appointed chair.
+
+Tentative meeting will be called for Monday the 7th @ 3:30.
+
+Committee members: Travis, Max, Pouya, Sepand, Trevor, Tim, Yang, Eugene, Dragoljub, Jeff
+
+
+Long pause happens whilst the room waits for Travis to scan over last meeting's minutes.
+Noah and Jeff entertains everyone by doing their famous Robot-rumble dance.
+There is much cheering.
+
+
+===================
+Approval of Minutes
+===================
+
+Travis motions to approve the previous meeting's minutes; Max seconds.
+Motion carries.
+
+==========
+Open Floor
+==========
+
+Travis: Common room ethernet connection
+---------------------------------------
+ACS is slow, and the $250 is yet to be spent. While you're waiting for that to happen, go check out lemma's galleries.
+
+
+Meeting adjourned at 14:29
+
+

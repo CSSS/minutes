@@ -1,0 +1,172 @@
+Minutes of the CSSS General Meeting held on 2004-09-20 (Monday)
+
+Attendance:
+-----------
+Name			E-mail		Affiliation
+
+Eugene Chin		ehc		cmpt
+Michelle Chan		mlc2		cmpt
+Ryan Sikuna		rtsikma		declared cmpt
+Jim Carrothers		jimc		decalred cmpt major
+Noah Adams		nba		declared
+Dan Leslie		dleslie		RED
+Michele Lee		mleet		major
+John Boxall		jrboxall	Sky Captain
+Eli Gibson		egibson		intended minor
+Jen Fernquist		jenf		major
+Amy Tran		atran		major
+Tim Kim			tkim1		major
+Diego Fort Cilloniz	dfortcil	future major/courses
+Sepand Gojgini		sgojgini	major
+Dalcon Hai		dhai		major
+Max Whitney		mwhitney	major
+Travis Brown		travisb		major
+Courteney Ryan		ceryan		major
+Robert Hetzler		rjh		camels
+Dominic Lau		dominicl	CS guaranteed placement
+Yang Zhao		yangz		BLUE
+Fil Maj			fmaj		counter strike
+Vincent Chu		vwchu		major
+Marcel Guzman		mguzman		major
+Eli Sakamoto		esakamot	major
+Angelica Lim		alimb		major
+Jeff Sipko		jsipko		cmpt
+
+Agenda:
+-------
+- Executive Elections
+- Open Floor
+
+***********************************
+Meeting called to order at 16:30:10
+
+Turn out is very good, and the room is packed. Yay!
+
+Elections:
+----------
+Since this is a bi-election, we can take nominations from the floor today, and not as otherwise stated in the notice email.
+
+Each current exec position holder gave a run-down of their respective positions. Various interruptions and supplements from the floor, as always.
+(Text in parenthesis following nominees' names indicates nominator, and possibly person who seconded, with optional self-explanatory but non-trivial data.)
+
+- President
+Description: make sure everything runs smoothly, act as spokesperson for CSSS, represent CSSS at school meetings, send lots of e-mails, must have vision (5 year plan!), is signing officer, and gets to use a sweet title for resume
+Nominations: Angelica (by herself), Donald Lee (not present, himself), Travis (by Dan L)
+Brief interlude: Angelica's speech (Monty Python theme is hummed): ANGELICA HAS A BIG VISION! WOOOO! Oh, and ski trip. Yay ski trip.
+Travis' speech: Trying to make same jump from secretary to president like Angelica
+
+Congratulations Angelica!
+
+
+- Treasurer
+Description: taking money out, rolling it, making deposits, make sure society has money and cheques don't bounce, handle mail and give to president if unable to, pay bills, handle finances, and keep financial records in case of audit
+Nominations: Travis (self), Rajan Bombhi (self), Eugene (self), Yang (self)
+Eugene's speech: has taken accounting courses, and will work with any spreadsheet software that can be conveniently found
+Travis' speech: can count, add reach same number twice, can use spreadsheet, little embezzlement (that you know of), can carry heavy bags of money (he's buff and he's the stuff)
+Yang's speech: can count too, and WELL; done lots of paperwork. Promises to not screw up if ever attempting to pull off Office Space style scam.
+
+Congratulations Eugene!
+
+
+- VPO
+Description: president's job is hard, so VPO talks to people pres doesn't feel like talking to, and ease the burden for the president (lackey shifted from secretary to vpo), talks to other people when needed to talk to other groups, fills the need for another signing officer
+Nominations: Noah (self), Jeff (self, Noah), Travis (Dan, Jen)
+Noah: VPA, secretary(twice), wrote current constitution, been pres 5 weeks at random times, know many execs from other unions, keep red hair and plots to take over the world
+Jeff: copies Noah a lot, <enter political jargon>
+Travis: has no idea what he's gonna do, but he has large amounts of free time
+
+Congratulations Noah!
+
+
+- VPR
+Description: notorious position in the society, very few people seek it (Rob is being positive!), make sure pop machine & photo copier are stocked and working properly, deal with Coke's idiocies of customer service and delivery people, photocopier phantom jams, is a signing officer, anything goes wrong, you fix it. Won't be as arduous this semester because of Exec@Large.
+Nominations: Travis (self), Rob (self), Yang (self), Sepand (self, Noah), Jim (Eugene, Rob), Amy (Rob; declined)
+Travis: is actually serious about this one. Has experiences from when he was secretary (lackey!), and, again, LOTS OF FREE TIME. Primary motivation is to become his own boss since currently also holds assistant admin position of lemma.
+Rob: he's not good at making speeches! now his speech: 5th term he's seeking as VPR, on campus pretty much every day, master of the photocopier, uber pop stacker (stacking algorithm patent pending), created the Fruity Column. Pulls experience card +4.
+Yang: deals with old machines a lot, will be stealing stacking algorithms, will try to get new cabinet & photocopier.
+Sepand: was in the assignment lab copying homework, so now he's in the common room copying homework. Going open source on his pop stacking algorithm, and uses the off/on procedure to fix the photocopier. Statistically proven to work most of the time. Laughter and cheers for OpenSource followed.
+Jim: finally has a schedule to attend meetings! tongue has wrapped itself around itself, *uncomfortable silence*, speech ends.
+
+Congratulations Travis!
+
+
+- VPA
+Description: john does presentation with drawings and images, get to spend the money so you're happy! organize events, don't listen to complainers!, signing officers run pizza & movies, send out announcements of events
+Nominations: John Boxall (self), Jeff (self, Noah), Dan (Eugene; decline), Jen (Noah; decline), Michelle (angleica; decline), Courtney (Dan; decline), Yang (Dan, a random bag of mostly water)
+John: still bitching about Buntzen lake and paintball, ran segway thing at WOW, please vote for Jeff!
+Jeff: draws happy face, but with cigar; will do better than John! vote for John!
+Yang: draws ninja pirate robot monkey. much cheering for the Awesome Being of Supreme Kick-ass-ness; takes a bow, vote for the other two guys!
+
+Congratulations Jeff!
+
+
+- Secretary
+Description: Maintain mailing lists, record minutes, post minutes, upkeep boards
+Nominations: Omar (self), Yang (self), Courtney (self, Travis), Amy (Noah; decline)
+Yang: more ninja pirate robot monkey! Vows to use LaTeX in vim. Much approval from the floor.
+Courtney: homicidal dangerous pointy things doom girl; assures she *does* have some self-control, and can type; non boring minutes (by word or by deed? both!)
+
+Congratulations Yang!
+
+
+- Exec @ Large
+Description: to help out VPR since there's so much to be done. Un-intimidating position to see what it's like to be in the executive team; only 4 month commitment compared to 8 months of the President, VPs, and treasurer.
+Nominations: Vincent Chu (self), Eli Gibson (self), Jim (self), Rob (self, Jim), Timbo (Jeff, Yang), Omar (Travis, a random biped), Eli Sakamoto (Yang, Marcus), John (Noah; decline), Amy (Noah; decline), Courtney (a random sack of mostly water), Dominic (yet another random breathing thing), Max (Noah, Jeff)
+Speeches are more boring in this one, people are too serious.  We'll just say they danced like Michael Flatley.
+Speeches interrupted by the following infomercial:
+Timbo version 1.0: draws well, sings, dances, does kung-fu fighting, and is brave enough to purposely incur the wrath of our Madam President. All this for the low-low price of one vote! Many more features listed, but lost in recording due to uncontrollable laughter.
+
+Congratulations Tim!
+
+
+- Forum rep
+Description: attends SFSS Forum meetings, once a month for 3 hours, get a stipend; basically a go between with SFSS and CSSS
+Nominations: Dan (self, Noah), Diego (self, a random meat-bag), Eli G (self; decline), Amy (Noah; decline)
+Dan: very political, campaigns, it's his hobby
+Diego: SFSS volunteer, general advocacy, peer support, peer awareness, WOW, big time volunteer, and he's Spanish
+
+Congratulations Dan!
+
+
+*insert sappy thank you speech from Angelica*
+
+Election Results
+----------------
+President - Angelica Lim
+VP Operations - Noah Adams
+VP Resources - Travis Brown
+VP Activities - Jeff Spiko
+Treasurer - Eugene Chin
+Secretary - Yang Zhao
+Exec@Large - Tim "version 1.0" Kim
+
+Congratulations to all!
+
+
+Before proceeding, Angelica calls for recruits for Jeff's army of event organizers, and receives many. Webmonkeys were also collected and tagged, although Chief Webmaster was not assigned. Eli S dares to be different by refusing conscription.
+
+
+Open Floor
+-----------
+UCC, H/S, and CRC elections:
+Noah makes motion to defer UCC and H/S and CRC elections to next meeting
+Second by some random meat-bag.
+Motion passes.
+
+Terry Fox Run:
+The run is coming up on Thursday. Starts at 11:40, but runners are to meet in the Convo Mall by 11:20. It's only 3.2 klicks.  It's a walk/run so don't have to run. List passed around for sign-up. NO BIKING OR SEGWAYS OR JETPACKS.  No wheeled motion.
+
+Standing orders:
+Noah motions up to $2000 for day to day operations like pizza, pop for pop machine, paper/toner, movies and currently outstanding bills for the next month.
+Second by Jim.
+Motion passes.
+
+Common Room vending machine situation:
+Locking options for pop machine was discussed since it's been broken into twice in recent memory.
+Noah suggests talking to Coke to see what options there are for the pop machine since it's likely to be free.
+Travis commences bitching to no effect.
+
+Noah motions to adjourn.
+No oppositions.
+
+Meeting adjourned at 18:19

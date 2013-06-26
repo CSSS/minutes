@@ -1,0 +1,157 @@
+CSSS Meeting Mar. 3/2004
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Name			Email		Affiliation
+Max Whitney		mwhitney	CMPT
+Jeff Sipko		jsipko		CMPT
+Courteney Ryan		ceryan		CMPT
+Kyle Richter		kbr		CMPT
+Jonathan Trivett	jtrivett	CMPT
+John Bexall		jrbexall	CMPT
+Sara Gouneili		sgouneil	CMPT
+Igor Falestski		ifaletsk	CMPT
+Michele Lee		mleet		CMPT
+Michael Schwartz	mpschwar	CMPT
+Sundeep Parmar		sparmard	Minor
+Johnson Yang		jyang		CMPT
+Noah Adams		nba		CMPT
+Andy Lumb		alumb		CMPT
+Travis Brown		travisb		CMPT
+Omar-Sadique Mohamed	omahamed	CMPT
+Eva Au-Yeung		eauyeung	MATH
+Yang Zhao		yangz		CMPT
+Jeremey Holman		jholman		CMPT 354
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The Chair Justin called the meeting to order at 3:10PM
+
+Report of the Officers:
+	President: Justin claims nothing has happened, wait, tons has happened.
+		Justin recaps the GPA drop issue. He then moves onto the 
+		results of the meeting. A bunch of good things came out of it.
+		A much more community based atmosphere is wanted by the
+		society. CMPT891, a Grad seminar, will be opened to undergrads
+		eventually, maybe. The society offered to start a recruitment
+		support system, which may get a seat on the UAR, which is
+		responsable for admission to the school. The recruiting
+		efforts are too be discussed later. We also pledged to make
+		out events open to fuacalty and/or make events more acceptable
+		to them.
+
+		After the meeting with Dr. Li, there was a school meeting.
+		Dr. Li's term has been extended to the end of August. 
+		Afterwhich he is looking forward to going back to research.
+		His replacement is Gimbo Grond, for a one year interm stay
+		while they search for a new suc^H^H^Hmember to be the director.
+		Applications to the department are up this year. Justin feels
+		that this will improve as recruitment gets better.
+
+		Justin has a meeting on Friday about a Coop open house, he
+		doesn't know much but there will most likely be a call for
+		volunteers.
+
+	VPR: Pop is selling fine, prices were all lowered to $0.75 due to the
+		facts of costs. The soup machine appears to be not possible
+		due to an exclusivity agreement with the current vending
+		machine companies. There is talk about changing items in the
+		current vending machines. Lemma is finally running again with
+		the old CSSS webpage, which is horribly, horribly out of date.
+		There are plans to rewrite the current webpage. There will be
+		a meeting after this to talk about it. Also, if you have any
+		input, csss-iwg is a mailing list to join.
+
+	VPA: Noah goes over the events that we've had so far. He has a concern
+		about the LAN ended. The investment in power coords payed off,
+		but some switches are still missing. It was fun. The lots of
+		rooms format worked out well. If you have any concern, email
+		him. Stuff coming up, inner tubing is this Sunday. He forgot
+		to advertise it, it'll go up this afternoon. He already has
+		pricing, if we get more than 20	people it becomes $3 cheaper 
+		per person. Ice skating is possibly coming up on the 20th. It
+		will most likely end up being a free skate with subsidy due
+		to ice sheet trouble. He wants more events, asks for ideas. He
+		suggests another bowling or wings night.
+		Jeremy talks about the issues of fauculty talking only among
+		themselves at the past MSU beer garden and how it may affect
+		better intergrated CSSS events. There is some discussion about
+		more informal ways to get socialization. It is discussed that
+		it will take time. The eventual goal is	to have a nice amount
+		of communication between everybody. App Sci formal with most
+		likely be happening in April, maybe sit down dinner, other 
+		info later. The budget is looking to be around $8000, an
+		attendance of 150 seems reasonable. Base line ticket price is
+		$30, subsidy may come later. Fund raising is being done. Noah
+		will ask for money later, which will bring ticket prices down
+		to ~$25. Noah ask for a decision about the March event.
+		Rock climbing is suggested for the event, the problem of
+		Belayers is brought up. ~$20/2 hours per person. Noah thinks
+		the problems may prevent is from happening. That and fauculty
+		ice breaking would be tough.
+
+		An old school arcade is suggested and was discussed. Noah says
+		that he will most likely ask for money next time, and may
+		advertise without funding.
+
+		**************************************************************
+		Noah motions for $200 for an unknown fauculty mixer event.
+		Jeremy seconds. Motion passes.
+		**************************************************************
+
+		Noah mentions that Kill Bill V.2 is coming out during exams.
+		He asks about going one week later. It comes out on the 16th
+		of April. The Saturday night after the release is suggested as
+		most appropriate.
+
+		**************************************************************
+		Andy motions to go see Kill Bill V.2 on the Saturday after is
+		comes out. Up to 30 tickets. Seconded by Omar. Motion passes,
+		barely.
+		**************************************************************
+
+Approval of the minutes for the last _3_ meetings. 
+	**********************************************************************
+	Travis motions to approve the last 3 meetings of minutes. Seconded by
+	Noah. Motion passes.
+	**********************************************************************
+
+Recruitment:
+	There is a mailing list, people are still being added. A person is
+	needed to head a recruitment committee. Their responsibilities will
+	most likely be to communicate with the school/advisors. Somebody
+	wanting to do this for 2 or more semesters. 
+
+	There is some discussion about what the requirements of the chair
+	should be. There is some talk of the figure head being required to be
+	CSSS. There is talk about the time commitment. Mostly a few meetings
+	then how much you can. Jeff volunteers to become the figurehead/chair.
+	Figurehead is less work so he's more than happy to do that.
+
+End of Semester Social: April 2nd. The Atrium isn't booked yet, but it should
+	be easy to get it. Noah asks for tons of help to put the End of
+	Semester on. There will be a meeting on Monday, it will be put on
+	csss-active. There is some talk of what previous ones were like.
+	csss-social is up. Join it if you want on. Noah asks for names. A few
+	people volunteer. A budget is hoped to be put together by next meeting.
+LAN party post mortem. SKipped because whoever wanted it wasn't there.
+Math Society presentation: There were empty beer cans after the last LAN party.
+	Because of this, the MSU common room will be open only during regular
+	hours. This is just an announcement.
+Nethack terminal: Tibi not here. Justin makes a brief summary. Jeremy
+	describes the game. Access is discussed. The issue is simpified down
+	to, do we want to disallow it. There is little sentiment for it, and
+	some against it.
+
+	*********************************************************************
+	Andy motions to allow Tibi to setup the Sparc Station in the common
+	room, with the Executive to have the power to disconnect it and ban
+	people if necessary on the Executive perogative. Seconded by Omar.
+	Motion passes.
+	*********************************************************************
+
+Open Floor:
+	Noah talks about his attempts to draw a new Constitution for the
+	Society. It failed due to lack of interest. The is some interest
+	expressed by a few members present. Noah asks for some help in
+	redrafting the Constitution.
+
+Travis calls for a motion to adjourn. Motion adjourns at 4:15 PM.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

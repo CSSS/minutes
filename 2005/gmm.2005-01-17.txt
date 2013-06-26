@@ -1,0 +1,181 @@
+General meeting minutes for 2005-01-17 (Monday)
+
+==========
+Attendance
+==========
+Name			Email		Affiliation
+----------------------------------------------------------------
+Jeff Sipko		jsipko		I'm #1
+Yang Zhao		yangz		sombrero man
+Eugene Chin		ehc		zort
+Dominic Lau		dominicl	teh Dom
+Tim Kim			tkim1		OH GOD IT'S ON FIRE
+Mike Syrjala		msyrjala	zion
+Pouya Bastani		pbastani	CMPT Major
+Michele Lee		mleet		trogdor
+John Boxall		jrboxall	major
+Bishnu Bhattacharyya	bbhattac	major
+Trevor MacPhail		tmmacpha	major
+Travis Brown		travib		Owner Operator
+Courteney Ryan		ceryan		Fier? Where?!
+Nhan Nguyen		tnn		major
+Benton Lam		bentonl		major
+James Carrothers	jimc		major
+Vincent Chu		vwchu		major
+Chris McIntosh		cmcintos	major
+Dan Leslie		dleslie		shpudoinkle
+Jack			ms419@freezone.co.uk	 affilate U!
+Max Whitney		mwhitney	major
+Sepand Gojgini		sgojgini	major
+Scott Cowan		scottc		MACM Honours
+Diego Molero		damolero	CMPT major
+Warren Lee		wklee		MACM Honours
+Josephine Wong		jwongs		SFSS AppSci Rep
+Shawn Hunsdale		shunsdal	SFSS Member Services Officer
+Angelica Lim		alimb		CMPT major
+Nikki Zuko		nza		CMPT major
+Andy Lumb		alumb		CMPT major
+Noah Adams		nba		major
+
+Meeting called to order by Noah at 16:31
+
+==================
+Report of officers
+==================
+
+** President: Angelica **
+Ski trip went well
+Furniture is being requested for the atrium
+Special semester events have been planned, and events calendar was created
+
+School is holding open house for high-school students on Feb 5th, and wants us to run a booth with games. Red Bull shooter chess is suggested.
+
+
+** VP Operations: Noah **
+Stuff are being done with engineers. Kinesiology and communication, however, have yet to acknowledge this existence.
+
+
+** VP Activities: Jeff **
+Happy that there are already a lot of events planned for the semester and that his job has been made easier. Also, Jeff has "MAD BILLS", as is noted by his t-shirt.
+
+
+** VP Resource: Travis **
+The new photocopier has arrived, but no coin-op, so Travis and Timbo has been hard at work being the human coin-ops.
+
+Update on Ethernet connection to common room: it ain't happened yet.
+
+Lemma has a new domain name: http://csss.cs.sfu.ca
+
+
+** Treasurer: Eugene **
+We've now switched to a new photocopier lease which saves us ~$50/month
+
+Things have been a bit slow, but there are ~$1700 spendable money, after bills and such
+
+Only lost $7 on pizza this week
+
+** Exec @ Large: Tim **
+Usual odd jobs.
+
+** Secretary: Yang **
+Has finally finished decorating the bulletin board.
+
+*Noah dances a jig*
+
+=========
+Elections
+=========
+Noah flips a coin: Exec@Large election will be first.
+
+Exec@Large nominees (nominator followed by second in parenthesis):
+- Tim (Jeff, Eugene)
+- Max (Dan, Bishnu)
+- Sepand (Dan, Angelica)
+- Jim (Travis, a random bag of mostly water)
+- Nhan (Jeff, Tim)
+- Courteney (some present humanoids)
+
+Speech highlights:
+- Tim summarizes his speech with one word on the chalk-board: "NO"
+- Sepand promises to clean-up the back room. He's an ambitious and brave man.
+- Nhan has no idea why he's up there, but he'll be around
+
+Tim is elected to another 4 months
+
+
+Secretary nominees:
+- Sepand will make Timbo clean
+- Yang
+- Trevor
+- Courtney
+- Nhan
+- John
+(Dan attempts to nominates Noah but is met with resistance with hilarious results)
+
+Speech highlights:
+- Yang spells sombrero without the m. Sombrero Man strikes!
+- Now that Sepand isn't the lackey, he promises to make Timbo clean up the back room
+- John requests assistance in his manhunt
+
+Yang is elected, completing the exact same exec line-up as the previous semester.
+
+
+=======================
+Travel Funding for CUTC
+=======================
+12 CUTC delegates are requesting CUTC funding; Chris M and Vincent C requests funding for SPIE conference.
+
+Jim motions for $100 each for Jeff Sipko and Trevor MacPhail for travel funding; Dan seconds.
+Motion carries
+
+Jim motions for the remaining travel funding to be spread evenly among Chris McIntosh, Vincent Chu, Angelica Lim, Eugene Chin, Michele Lee, John Boxall, Sara Gouneili, Sepand Gojgini, Noah Adams, Jennifer Fernquist, Andy Lumb, and Yang Zhao.
+Motion carries
+
+
+============
+Polar Plunge
+============
+Polar Plunge will be joint EUSS-CSSS event this year.
+Promotions start this week, collection the following week
+Informal social will end the day.
+
+Angelica motions for $30 towards Polar Plunge; Andy seconds.
+Motion carries
+
+
+===============
+Semester Events
+===============
+Need volunteer for following events: UNIX Knowledge Share Week, Polar Plunge, OpFair,
+Social, AppSci Formal Banquet, and AppSci Pub Night.
+
+Pub night will be rescheduled.
+
+Following volunteers were recruited -- * indicates the person is the chair/co-chair for the particular team:
+- UNIX: *Nikki
+- OpFair: *Noah, Jeff
+- Social: Eugene, *Sepand, Dominic
+- Banquet: Mike, *Bishnu, Trevor, Courteney, Yang, Noah
+- Pub night: Jeff
+
+=========================
+UNIX Knowledge Share Week
+=========================
+Angelica motions to allocate up to $200 for purchasing of food and material
+for Unix Share Week.
+Motion carries
+
+
+===================
+Approval of Minutes
+===================
+Jeff motions to approve the previous meeting's minutes; Trevor seconds.
+Motion carries
+
+==========
+Open Floor
+==========
+No businesses to discuss
+
+
+Meeting adjourned at 17:51 
