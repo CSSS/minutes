@@ -1,0 +1,76 @@
+CSSS General Meeting Minutes for October 25, 2000
+
+Attendance
+----------
+Geoff Denning President
+Jonathan Trivett Secretary
+Wayne Venables
+Christopher Stewbach
+Satoshi Iura
+Jason Reader
+Chris Demwell
+Andrew Yang
+Blair Leggott
+John Harvey
+Ava Tsang
+Tony Tang
+
+Agenda
+------
+CSSS Webserver Update
+Bank/Finances Update
+VP Activities Update
+Resource Room Update
+Supporting Motion for sfu-general Mailling List
+Motion for csss-exec Mailing List Restrictions
+Open Floor
+
+Minutes
+-------
+Call to order by Geoff Denning (chair) at 4:30 pm
+
+1) Webserver Update
+-Up and running
+-Has power supply and light system
+-Stormix sponsorship needs to be confirmed
+-Needs more security (fire wall, etc.)
+
+2) Bank/Finances Update
+-Bank closed on mondays
+-Account not opened yet.
+-Unsure of financial situation, but we are in the black.
+
+3) VP Activities Update
+-Laser Tag tommorow, need people.
+-Nothing further to report.
+
+4) Resource Room Update
+-Undealt with so far
+-Work Order for the new door has been acknowledged.
+-(Unrelated)Work Order to remove extra couch in common room.
+-Most of the work will be put off until Micah comes back
+-Need to advertise it more once everything has been dealt with.
+-John to create a to-do list.
+
+5) Supporting Motion for sfu-general Mailling List
+-Issue is unrelated to CSSS.
+
+6) Motion for csss-exec Mailing List Restrictions
+Motion: CDemwall motions to restrict csss-exec to current executives and the
+sfss field worker office. 7 infavour, 1 opposed; Motion passes.
+
+1) Alma's retirement
+-Alma is retiring at the end of the semester.
+-Christopher Stewbach motions to allocate Jeff and Satoshi up to $1000.00 to
+buy a gift. Seconded by John. Unanimous; motion passes.
+
+2) Online game
+-UBC CSSS organising a FPS online game.
+-Wants to involve SFU and UVic aswell.
+-CSSS will provide information but not support or discourage it.
+
+3) School of Computing Science Meeting
+-Macm 316 may be made a prerequisite for Cmpt 466 and 461.
+-To be decided at meeting tommorow.
+
+Movement to adjourn at 3:37 pm

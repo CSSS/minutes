@@ -1,0 +1,185 @@
+CSSS General Meeting on Wednesday, January 17th
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Attendance:
+
+NAME EMAIL AFFILIATION
+---- ----- -----------
+
+Chris Steinbach declared major
+Micha Pringle  honours
+Michael Schwartz  declared major
+Diego Silang Maranan  declared major
+Mark Beleznay  intended major
+Andrew Yang  intended major
+Amy Wong MSSC
+Jonathan Trivett  major
+Aaron Steele  major
+Ivan Hui major
+Shaun Webb  intended major
+Ethan Krindle  taking a CMPT
+Geoff Rispin  major
+Johnsan Yang  major
+Satoshi Iura  minor
+Gabriel Lew  major
+Behnam Bustani  honours
+John Pang  major 
+Scott Emery  taking CMPT 371
+Pete Lypkie  major
+Wayne Venables  major
+Silumesii Maboshe  ???
+
+
+-------------------------------------------------------
+
+
+Chairing the meeting: Geoff Denning
+Taking minutes: Pete Lypkie
+
+
+1) Elections
+
+President.
+
+Geoff Rispin nominates Geoff Denning
+Micha Pringle seconds
+
+Geoff Denning nominates Micha Pringle
+Chris Steinbach seconds
+
+Geoff Denning nominates Pete Lypkie
+Scott Emery seconds
+
+Geoff accepts nomination
+Micha declines
+Pete declines
+
+Vote for Geoff: none against, none abstaining.
+
+
+V.P. Resources
+
+Chris Steinbach nominates Micha (who immediately declines)
+Chris Steinbach nominates Andrew Yang (declines)
+
+Diego nominates Mike Schwartz
+Steinbach seconds
+
+Denning nominates Scott Emery
+Pete Lypkie seconds
+
+Scott Emery nominates Wayne Venables
+Micha seconds
+
+Mike Schwartz declines
+Scott Emery accepts
+Wayne Venables declines
+
+Vote for Scott: none against, none abstaining
+
+
+V.P. Activities
+
+
+Emery nominates Geoff Rispin
+Lypkie seconds
+
+Rispin nominates Mike Schwartz
+Venables seconds
+
+Lypkie nominates Mark Beleznay (immediately declines)
+
+Lypkie nominates Micha Pringle
+Steinbach seconds
+
+Rispin accepts
+Schwartz declines
+Pringle declines
+
+Vote for Rispin: none against, none abstaining
+
+
+Treasurer
+
+Pringle nominates Steinbach (declines)
+
+Rispin nominates Lypkie
+Emery seconds
+
+Denning nominates Emery
+Lypkie seconds
+
+Votes: none abstain, Pete Lypkie is elected treasurer
+
+
+Secretary
+
+Lypkie nominates Ethan Krindle
+Steinbach seconds
+
+Rispin nominates Shaun Webb
+Denning seconds
+
+Rispin nominates Beleznay
+Emery seconds
+
+Denning nominates Steinbach
+Venables seconds
+
+Krindle declines
+Webb accepts
+Beleznay declines
+Steinbach accepts
+
+Votes: Shaun Webb is elected secretary
+
+
+Committees
+
+UCC - Undergrad Curriculum Committee
+
+Silumesii Maboshe --
+Micha Pringle --
+Diego Maranan --
+
+
+
+Hardware/Software Committee
+
+Pete Lypkie --
+Geoff Rispin --
+
+
+
+Treasury Report
+
+Approx $4800 in the bank. Current bank is Scotia Bank down the hill.
+Machines are currently full, and change is uncounted.
+
+
+
+CUTC -- Canadian Undergrad Technology Conference
+
+- in Waterloo
+- Geoff Denning wants to use SFSS travel funding
+- Denning claims that Hattie says we qualify
+
+vote to use SFSS travel funding: unanimous
+
+- Micha proposes $500 from CSSS to cover remaining expenses, and 
+additional money up to $2000 to cover short term expenses. Additional
+amount will be paid back to CSSS
+
+vote to give $500 and lend up to $2000: passes
+
+
+Open Floor
+
+- Micha talks about hisi crypto contest. email him for details
+- Denning talks about exam files, and promises that they will
+be dealt with this semester
+- Denning talks about resource room, and the lack of people to supervise
+it. perhaps we should donate books to library for 24-hour reference?
+
+Wayne motions to adjourn.

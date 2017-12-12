@@ -1,0 +1,165 @@
+CSSS General Meeting
+Wednesday May 26, 1999
+
+Agenda:
+  Treasurer's Report + feedback on Star Wars tickets sales 
+  Support for the newly elected ENSC Forum Representative 
+  Choosing Hardware Committee Representatives, and ... 
+  Undergraduate Curriculum Committee Representatives 
+  Update from ACS re: linking ADSL with our SFU ISP 
+  Update on Exam Prep Workshop date/time 
+  Discussion: Setting up as a Single Consultant seminar 
+  Discussion: Linux Installation/Information seminar 
+  Discussion: SFU Computer H/w S/w Swap Meet 
+  Discussion: Purchasing another round for STAR WARS 
+  Discussion: Purchasing a "low end" digital camera 
+  Phone (replacing and protecting it from vandals) 
+  Open Floor (bring up your ideas/concerns/comments)
+
+CSSS General Meeting Minutes for May 26, 1999
+Attendance
+  Paul Olynek           declared  (President) 
+  Peter Lypkie          declared  (VP-Resources) 
+  Mike Pede              intended   (VP-Activities) 
+  Satoshi Iura             intended  (Treasurer) 
+  Donia Tung              declared  (Secretary)
+  Christopher Steinbach     intended  (Forum Rep.)
+  Alvin Leung           declared
+  Michael Schwartz     declared
+  Andrew Yang            intended
+  
+
+Agenda
+Meeting called to order by Paul Olynek at 1:35pm
+
+*Treasurer's Report
+  Satoshi
+    - Current budget is under $10,000
+    Star Wars tickets
+      - CSSS purchased 235 tickets @ $9.75 each
+      - 220 tickets sold @ $6.00 each
+      - CSSS subsidized $3.75 per ticket
+      - 15 unsold tickets were given to people at the theatre for free
+
+    Tech Fair
+      - Richard W. needs budget from CSSS account for TechFair99
+      - Paul suggested Richard should use the previous method of 
+        asking the SFSS Accounting Dept. to handle the invoicing
+      - Satoshi and Chris will confirm with Richard and talk to the 
+        SFSS Accountant
+   End of report
+
+
+* Support for the newly elected ENSC Forum Representative 
+  Mike
+    - The elected ENSC Forum Rep is not available this semester, 
+      therefore a short-term rep. has been nominated
+    - There were some concerns in the Forum where there were those 
+      voting against the ratification of this rep.
+    - Our Forum Rep, Chris Steinbach was not sure how to vote on this 
+      issue
+    - CSSS should try to maintain our current good standing with the  
+      EUSS
+  Chris
+    - Stated he needs to keep his campaign promises and as such 
+      his vote may not be the same as what this CSSS meeting suggests
+  
+  MOTION: Mike P. / Paul O.
+    - CSSS to give direction to our CMPT Forum Rep (Chris S.) to vote 
+      in favour of the ratification of the ENSC Forum Rep. Nomination.
+  Motion CARRIED, 4 For, 3 Abstentions
+
+
+* Choosing Hardware Committee Representatives
+  - Representatives are responsible for giving hardware and software 
+    suggestions to the CS department
+  - The committee will meet about once a month (or as needed)
+  - Pete L. and Mike P. volunteered.  They will be our CSSS 
+   Hardware Committee Representatives to the CS dept.
+
+
+* Choosing Undergraduate Curriculum Committee Representatives
+  - Representatives are responsible for reviewing and discussing 
+   potential changes to CMPT/MACM courses and the CS curriculum
+  - Alvin L. and Mike P. volunteered.  They will be our CSSS 
+   UCC Representatives to the CS dept.
+
+
+* Update from ACS re: linking ADSL with our SFU ISP
+  Paul
+    - Head of the ACS explained that it would be more expensive to
+     set up (compared to the current set up) ... and that under no 
+     circumstances would it be free.
+
+
+* Update on Exam Prep Workshop date/time
+  Paul
+    - It is scheduled for Wed June 9th, 1:30-2:20pm, in ASB9705
+    - Dr. Nakonechny will be giving the talk (again)
+    - We will also be asking a CS Prof to give some information
+     regarding their approach to preparing and marking exams
+    - Paul will ask Dr. Tom Shermer
+
+
+* Discussion: Setting up as a Single Consultant seminar 
+  Paul
+    - The seminar will focus on the legal issues in single person 
+     consulting and simple steps on how to get started
+    - Paul will ask the Business Faculty for suggestion and if anyone 
+      would like to speak at the seminar
+    - It will be scheduled in end of June or early July
+
+
+* Discussion: Linux Installation/Information seminar 
+  Pete
+    - It may be organized as an Install Fest. by the Vancouver Linux 
+      User Group
+    - Another option is to do demonstration on one or two machines
+    - Invitation will be sent to cmpt-all@ to estimate the number of
+      CSSS students interested in attending
+    - The seminar should be held at the Burnaby campus for the first 
+      time.  If it is successful, one may be organized for the Harbour 
+      Centre for the following semester
+
+
+* Discussion: SFU Computer H/w S/w Swap Meet 
+  Mike
+    - It could be held at the Halpern Centre
+    - More details to be followed in next meeting
+
+
+* Discussion: Purchasing another round for STAR WARS 
+  Mike
+    - Friday June 4th, 1999
+    - Sign up sheet will be available on the pop machine
+    - CSSS will buy tickets only if at least 12 people are interested
+
+
+* Discussion: Purchasing a "low end" digital camera 
+  Paul
+    - The camera will be used mainly for the CSSS web site
+    - An inexpensive Agfa camera will be on the market beginning
+      June 1st that has a suggested retail price of  US$129.
+    - More will be discussed at a later meeting when the specifications 
+      for this camera is available
+
+  CSSS Webmaster:
+  - Since our previous Web Master (Matt Fraser) has graduated, we need 
+    someone to be responsible for updating the CSSS web site.
+  - Anyone interested should email Paul at eolynek@sfu.ca
+
+* Phone (replacing and protecting it from vandals) 
+  Pete
+    - We will get another phone for the common room
+
+
+* Open Floor (bring up your ideas/concerns/comments)
+  - No further business to discuss
+
+
+MOTION TO ADJOURN MEETING - Paul O. 
+Meeting Adjourned at 2:20pm.
+
+
+Donia Tung
+CSSS - Secretary

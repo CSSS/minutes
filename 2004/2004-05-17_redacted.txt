@@ -1,0 +1,77 @@
+Minutes of the CSSS General Meeting held on May 17, 2004.
+
+In attendance: (name/e-mail/affiliation)
+Eugene Chin					major
+Bishnu Bhattacharyya	major
+Dany Ayvazov				major
+Jeremy Holman			n/a
+Alex Ku					major
+Caroline Anthony			minor
+Karen Sun				major
+Amy Tran					major
+Jennifer Fernquist			major
+Robert Hetzler				the dark side of the schwartz
+Yang Zhao					intended
+Tim Kim					intended
+Benton Lam				major
+Eugene Chan				intended
+Michael Schwartz			major
+Simon Kwok				major
+Jeff Sipko				major
+Note: I think there were two people who didn't sign the attendance sheet, but I'm not sure.  Please let me know if you were there but are not on the attendance sheet.
+
+Agenda:
+Reports of Officers
+Forum rep re-election
+Tech Fair
+Open Floor
+
+
+Meeting is called to order at 12:40 by President Angelica Lim.
+
+Report of Officers:
+--------------------
+
+President:
+Angelica says she has a bunch of plans for the Society this semester, but her notes aren't with her.  After a brief pause to allow meeting attendees to recover from the shock, it is mentioned that she's probably more prepared than other Presidents.  Mike Schwartz remarks that at least there IS a President this early in the semester.  In any case, we are all left in suspense until the next meeting.  She's a teaser this one is.
+
+VPA:
+John also has plenty of ideas, but alas no notes.  However, the fear of further suspense is dashed when the Boxall-ian One decides to wing it(and there was much rejoicing).
+T-shirts bearing the name of the Society/School are awaiting a funding decision from the department.  John will talk to Amanda after the meeting and report the news at the next meeting.  John asks for colour scheme suggestions, himself nominating red & white.  Bishnu suggests white, while other colours are shouted out at random, blue with white text among them(we'll be walking BSODs!).  Jeremy suggests black because it's easy to coordinate with other colours.  Jeremy claims, in Holman-ian fashion, that as a person who spends a total of 4 minutes a year on wardrobe decisions, this is the way to go.  John is going to ask about a possibility of a variety of colour schemes, so people can choose what they want.
+The BBQ went well, but planned by Andy not John(yay Andy!).
+Shrek 2 movie night: John planning for this Saturday.  We already have gift vouchers, so no money is needed.  Look for the announcement to come soon along with a signup sheet.
+First week events: John wants to rent segways.  The idea is warmly received, but nothing is concrete yet.  A paintball challenge may be issued to the engineers(a chorus of boos ensues), but John figures they'll all run away and hide like all engineers(cheers erupted).  The event could cost about $20 per person.  Go-karting is also pitched as an idea.  Jeremy mentions there is a good paintball location within spitting's distance of a go-kart track.  Perhaps a dual event?
+Any other event ideas, e-mail John at @sfu.ca.  In other words, he welcomes spam.
+
+VPR:
+No notes either, but Rob emulates John by winging it also.  Coke is screwing up Rob's orders, which is, to put it mildly, ticking him off.  The past two orders have had Ruby Red undelivered.  Obviously this means a call to arms against those who would dare deny us Ruby Red! Rob is going to try a diplomatic approach, clearly suppressing the Klingon-like rage he feels, by threatening to go to another distributor if such poor service continues.  He will try to get a discount due to the low quality service.  Haggle away, good sir, haggle away.
+
+Treasurer:
+Not much to report from Jen because she doesn't have access to the account yet.  Signing authority will come Wednesday, so by next meeting she should have more to report.  Some coins have been rolled so we have money to deposit(yay money!).  Looks like that new coin counter is working pretty well.
+
+Secretary:
+Minutes are ready to approve.  Nothing else to report.
+
+
+Mike motions to approve last meeting's minutes, Benton seconds.  Motion passes.
+
+
+Forum rep re-election:
+Requirements(courtesy of Jeremy): Compsci major/honours, must facilitate communications between CSSS and forum, go to meetings hear what people say and report back to CSSS(then report back worries from CSSS).  Rep gets $150 stipend at end of semester.
+Bishnu nominates Eugene Chin, declined.
+Jeremy nominates Alex, Mike seconds.
+A yes/no vote ensues, and out of the dust cloud emerges a yes majority.  Congratulations to Alex, who is now our forum rep.(Applause)
+
+
+Tech Fair:
+Mike Schwartz is trying to get it started, there was a successful first meeting.  There were a fair number of volunteers that turned out(25); even with regular volunteer attrition rates, there will be more volunteers than the past three years...combined.  There are two co-ordinators this year: Troy Henke() and Troy L'Hirondelle().  More news will be coming after a few more Tech Fair meetings.
+
+
+Open floor:
+Jeremy wants to know what's going on with recruiting becuase it sounds a tad vague this year.  There was a June open house last year, involving the entire university.  There was also a late June CS orientation which got a bunch of potential first years together.  Current students talked about experiences and Margo talked as well.  Elizabeth Zook organized it last year, but she's not here, replaced by Amanda.  CS June orientation not on the list of activities from Amanda this year, so John is thinking about doing something without the department(well, after we get money from them for it).  Jeff is working with Rowan on recruitment.  They are on a committee to help organize the university-wide welcome to SFU orientation on June 7th.  They need volunteers to phone potential students(around 300), ask if they have questions, sort of a sell job to the students.  Brandon and Alex volunteer.  E-mail Jeff() if you are interested.
+Jeff pitches idea about a games night and extend it to other DSUs.  This way, we get more exposure of the School of Computing Science in order to try to get more internal transfer students.
+There is going to be a meeting with Amanda, so the next General Meeting will report the results.
+
+E-mail John() if you are interested in first week stuff.  Last year was the BBQ and the Gotcha! game.
+
+Motion to adjourn.  None opposed.  Meeting adjourned at 13:15.

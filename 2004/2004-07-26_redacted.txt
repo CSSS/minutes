@@ -1,0 +1,129 @@
+Minutes of the CSSS General Meeting held on July 26th, 2004.
+
+Attendance: (name/e-mail/affiliation)
+-------------
+Jeff Sipko				major
+Bishnu Bhattacharyya		major
+Alex Yang				major
+Tian Yu					major
+Johnson Yang				major
+Chris Mcintosh			major
+Karen Sun				major
+Max Whitney			major
+Robert Hetzler				the motherland
+Kyle Richter				major
+Simon Kwok				major
+Amy Tran				major
+Yang Zhao				major
+Timothy Kim				major
+Jennifer Fernquist			major
+George Leung				major
+Eugene Chan				intended
+Angelica Lim				major
+Sepand Gojgini			major
+John Boxall			major
+Eugene Chin				major
+Michael Scwartz			major
+
+
+Agenda:
+· Reports of Officers
+· Approval of Minutes
+· Review of SFSS proposed policy changes
+· First Week Stuff (Gotcha et al)
+· Fireworks BBQ
+· Tech Fair
+· Open Floor
+
+Meeting called to order at 12:32 "or something like that".  Looks like our president is as precise with time as Intel is with addition.
+
+Report of Officers
+------------------
+
+President Angelica
+Angelica has signed up for a Clubs Days table.  For the first time in a few semesters, we don't have to pirate the WICS Clubs Days table.  But we can still shout "Yarr!" and "Avast ye land lubbers!"
+She has bought Hattie flowers and a card.  Hattie should get them sometime today.
+
+VPA John
+John is a tad grumpy as the kids he's shepherding didn't want to shut up today.  Evidently the novelty of a guy in a dancing dog outfit has worn off.
+John didn't go to Buntzen Lake first to check out the meeting spot before he made it.  He got there at 11:30 and the parking lot was bigger than B-Lot.  There was a WICS girl in his carpool, so it officially was a joint event.
+Wings Night: It went as well as it could have.  There weren't any wings (chorus of boos echo), the excuse was avian flu.  If you recall, a few farms' worth of birds were culled due to a small outbreak in avian flu a while back.  Now short supply has caught up with them and there weren't any chickens to get wings from.  John still suspects a conspiracy.  Chicken-gate or something.  Instead, $100 worth of nachos was purchased.
+Social budget breakdown:
+	-games(X-Boxes and etc) ~$150
+	-food(pizza, cotton candy etc) ~$150 (a few conversations break out, John lays the smackdown on a table to get people to listen.  The Heads & Shoulders, Knees & Toes bribe didn't work)
+	-prizes ~$350 (hooray for Cosco!)
+	-misc ~$50
+	Total: ~$700, hopefully less
+Segways: We got $300 from WOW people, and John is considering to spend another $300 for more segways as mentioned last meeting.  (Insert WOW plug here by Angelica)
+Back to the social: John needs volunteers to run a few games since playing hookey all semester has caught up to him.  Apparently, X-boxes aren't educational enough for his kids.  What kind of world are we living in??? George volunteers to run the Coke Chug, Eugene Chan the mini-hockey and Angelica the disk towers.
+SFU Surrey Compsci wants to know if they can do segways down there too.  They'll give us $300 so John will probably just book another two segways and send them to the Surrey campus.
+
+VPR Rob
+The pop machine is being filled whenever pop is delivered.
+The LCD is "busticated" on the photocopier.  Minolta says they sent a guy, but that's akin to saying you'll never get a BSOD with Windows.  Rob's going to call Minolta again.
+Rob proclaims Coke is evil and begins muttering under his breath.  He didn't start smashing things, so it looks like the valium really helps.
+
+
+Treasurer Jen
+In order to get everyone's attention, she gives them "The Look".  Being one of the more potent weapons in a woman's arsenal, everyone shuts up and listens.
+Coins are getting rolled, and it's fun! That spinning coin sorter must be very hypnotic.  Or Jen's starting to go crazy from all the coins.  Most likely it's a little from Column A, a little from Column B.
+$1162 was deposited, there's about $2800 in the bank account.
+We also got $600 of core funding from the SFSS because Jen was a good girl and gave them receipts.  Money is good.
+
+
+Secretary Eugene
+Some people complain about being on cmpt-students.  Looks like the updates aren't timed correctly or people are just naturally whiny.  I'm going with the latter, since it creates less work.  Dogbert's "Shoo Strategy" seems to apply here.
+
+
+
+SFSS Policy Changes
+---------------------
+Last time Angelica mentioned some stuff about changes to funding policies for the SFSS.  She forgot to talk about some documentation requirements.  Ack! The "D" word!
+Documentation requirements are as follows:
+	-minutes of all meetings must be turned into the office within two weeks after the meeting.  It's not clear whether these are approved or nonapproved minutes.
+	-SFSS wants info about the bank account (ie signing officers, bank institution, account number etc).
+	-Each DSU must let the SFSS know about any contracts they are going to sign, providing documentation within 2 weeks of negotiation.
+	-Common Room access: The SFSS wants duplicate keys for common rooms, pop machines, photocopiers and cabinets
+This is still a proposal, so it will still be needed to approved at some point.  They want feedback by the end of the month.  There is a general negative concensus about all of the documentation requirements, particularly the last one about keys.
+
+
+
+Frosh Week
+-----------
+Sepand has created a budget WITH CHARTS! Oooo, ahhhh.
+The final total for all the committees budgets is $3436.  The CSSS will provide $1000, the department will provide $500 and the SFSS will provide $1000.  That leaves almost $1000 we need to get elsewhere.
+Sepand suggets a $13.50 per person cover charge, assuming about 70-75 people.  It is suggested to increase to $15 just to make it a nice round number.  Rule of Acquisition #242: More is good...all is better.
+The website is being worked on, as Yang the Web Monkey reports.  He has e-mailed about a forward/link from the CS website, but he'll do that today/tomorrow.  The website is a template of PHP, but it needs more content and more pictures from CS related events.
+
+
+
+Fireworks BBQ
+---------------
+Andy's organizing it.  It will be on August 7th at Jericho Beach.
+Funding decision was deferred to this meeting so a better picture of the financial situation could be painted.
+It is decided that the BBQ will be a potluck like last year.
+
+
+
+Tech Fair
+----------
+Troy's not here and he didn't send a report.
+
+
+
+Approval of Minutes
+--------------------
+After attending the "Coping with Senility" workshop (and almost going to "Microwave Cookery" instead), Mike manages to make a coherent motion.  He motions to approve the minutes.  Seconded by George.
+Motion passes.
+
+
+
+Open floor
+-----------
+Bishnu requests that people stop leaving pop cans lying around the Common Room.  Also stop leaving used cutlery from meals.
+Angelica, Eugene Chan and George volunteer to clean the fridge at the end of the semester.  Hope they're renting Haz-Mat suits.  They are brave, brave souls.
+
+
+
+Motion to adjourn.  There is no opposition.
+Motion adjourned at 13:15.

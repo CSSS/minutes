@@ -1,0 +1,145 @@
+CSSS General Meeting 
+Wednesday July 21, 1999
+
+Agenda:
+  Treasurer's Report
+  Using up the SFSS allotted semester "Core Budget".
+  Discussion: Pre-approving a set amount of money for a new couch for 
+  the common room
+  Discussion: Pre-approving a set amount of money for purchasing a 
+  small PC server to be used for hosting an off-campus dynamic CSSS 
+  website.
+  Discussion: Pre-approving a set amount of money for computer 
+  reference books for CSIL and the Library's Reserve Reading Room (all 
+  book course related).
+  Discussion: Pre-approving a set amount of money for a new Kodak DC240 
+  digital camera.
+  Discussion: Pre-approving a set amount of money for a new monitors 
+  for the incoming Sun Workstations (replacing the old NEXT computers). 
+  Forum Reps Report.
+  Open Floor (bring up your ideas/concerns/comments).
+
+CSSS General Meeting Minutes for July 21, 1999 
+Attendance
+  Paul Olynek       declared  (President) 
+  Peter Lypkie      declared  (VP-Resources) 
+  Satoshi Iura      intended  (Treasurer) 
+  Donia Tung        declared  (Secretary)
+  Christopher Steinbach  intended  (Forum Rep.)
+  Michael Schwartz  declared
+  Andrew Yang       intended
+  Martin Knowles    declared
+  Kaye Mason        declared
+
+  
+Agenda 
+Meeting called to order by Paul Olynek at 1:35pm
+
+
+*Treasurer's Report
+  Satoshi
+    - The current balance is $9,000+
+    - About $700 of photocopier bill is still outstanding
+  End of report
+
+
+*Using up the SFSS allotted semester "Core Budget".  
+  Paul
+    - (Use it or lose it . so let's use it up for posters, etc. for up 
+      coming events.)
+    - $50 core budget available from SFSS up to the 3rd week of August
+    - Purchase paper for photocopier
+
+
+*Discussion: Pre-approving a set amount of money for a new couch for
+ the common room 
+  Paul
+    - (The old one is literally falling apart at the seams.)
+    - Purchase a couch that is on clearance sale.
+  
+  MOTION: Paul O. / Satoshi I.
+    - To approve $750 for a new couch for the common room.
+  Motion CARRIED Unanimously.
+
+
+*Discussion: Pre-approving a set amount of money for purchasing a 
+ small PC server to be used for hosting an off-campus dynamic CSSS 
+ website.  
+  - MISA is interested in getting involved.  Monthly costs will 
+    be minimized/eliminated with selected advertising.
+  Pete
+    - Suggested to purchase a Celeron (dual cpu board, SCSI)
+    - no mouse, keyboard or monitor will be purchased
+    - Suggested price: Two Processors ($150 each) $350, 
+      Motherboard $200, RAM (256 MB) $250, SCSI controller $300, 
+      1 Case $85, Extra fan $15, 3Com 10/100 Network card $100, 
+      HD (2GB + 2x9GB) $1000, and plain video card $25.
+
+  MOTION: Paul O. / Pete L.
+    - To approve $2500 for purchasing a small PC server for hosting
+      an off-campus dynamic CSSS website.
+  Motion CARRIED, 7 For, 2 Abstentions, 0 Against
+
+
+*Stolen Phone and the Security Camera
+  Pete
+    - Only certain authority can view the security camera footage.
+  Paul
+    - Will contact security and discuss viewing the video tape(s).
+    - Considering installing a prison phone in the common room.
+
+
+*Discussion: Pre-approving a set amount of money for computer 
+ reference books for CSIL and the Library's Reserve Reading Room (all 
+ book course related).  
+  Paul
+    - These will be books that are currently not available via the 
+      library or instructor(s).  CS Tech Support Staff will install 
+      (secure) those books for CSIL and set up 24 hour reserve status 
+      on the (possibly duplicate) Library copies.
+    - All students will have access to the reference books
+
+  MOTION: Paul O. / Martin K.
+    - To approve $1000 for purchasing computer references books for 
+      CSIL and the Library's Reserve Reading Room.
+  Motion CARRIED Unanimously.
+
+
+*Discussion: Pre-approving a set amount of money for a new Kodak DC240 
+ digital camera.
+  Paul
+    - Involves 50-50 matching funds with the CS dept.  
+    - The camera will be maintained by the CS Tech Support Staff and be   
+      available to all CSSS students, especially the graphics and     
+      multimedia students.)
+   
+  MOTION: Paul O. / Kaye M.
+    - To approve $500 for paying 50% of the amount for a new Kodak 
+      DC240 digital camera.
+  Motion CARRIED, 8 For, 1 Abstention, 0 Against
+
+
+*Discussion: Pre-approving a set amount of money for a new monitors 
+ for the incoming Sun Workstations (replacing the old NEXT computers)
+  Paul
+    - This will be up to, but not more than 50% of what the CS dept 
+      will budget for an initial proposed block of 10 monitors.
+    - Computers will be available to all CS students.
+  Kaye
+    - Concerned that the CS dept may expect CSSS to subsidize in future
+      purchases.
+    - University may find out and decrease budget to the CS dept
+
+  MOTION: Paul O. / Pete L.
+    - To approve $2500 specifically for purchasing new monitors for the 
+      incoming Sun Workstations.  In addition, the CS department will 
+      be aware that this offer should not be construed as recurring  
+      event.
+  Motion CARRIED, 7 For, 2 Abstentions, 0 Against
+
+
+MOTION TO ADJOURN MEETING - Paul O. Meeting Adjourned at 2:35pm.
+
+Donia Tung 
+
+CSSS - Secretary

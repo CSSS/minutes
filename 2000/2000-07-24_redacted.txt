@@ -1,0 +1,148 @@
+CSSS General Meeting July 24, 2000
+
+Attendees:
+Johnson Yang ????? 
+Wayne Venables Major
+Christopher Steinbach Major
+Dario Arkus Major
+Dave Hirsch ?????
+Andrew Szendrey Major
+Geoff Denning Major
+Jason Reader Major
+
+Agenda:
+- Tech Fair 2000
+- NeXT machines
+- Resource Room
+- Photocopier
+- Banks
+- Forum Rep
+- CSSS End-of-Semester Social
+- BBQ Next Semester
+- CSSS Exec Social
+- Anti-Calendar
+- Server Update
+
+Meeting called to order at approx 3:30 pm
+
+-------------
+Motion: Make Geoff Denning acting secretary for the duration of the meeting.
+Moved by: Jason Reader
+Seconded by: Wayne Venables
+Result: Approved
+-------------
+
+Tech Fair Update:
+- Geoff Denning reports that the following companies are attending:
+
+Monday September 25th
+---------------------
+HSBC
+Pivotal
+Agilent Technologies Canada Inc.
+CreoScitex
+Seagate Software
+A.L.I. Technologies Inc (Asked for prime booth placement for registering early)
+Microsoft
+Raytheon
+IBM
+Brooks Automation
+Research in Motion
+
+Wednesday September 27th
+------------------------
+HSBC
+Incognito Software
+Microsoft
+Abatis
+TTC
+Radical Entertainment
+
+- Monday is full (13 companies).
+- Wednesday has only 5 companies, and Geoff would like to see at least 5 more for that day.
+- The SFSS is fronting $5000 of the fair cost, but additional CSSS financial backing is needed.
+
+NeXT machines:
+- Sales completed - approx $1200 earned
+
+-------------
+Motion: We will postpose donating the money earned from sales of the NeXT machines to the Computing Science department until one month after Tech Fair.
+Moved by: Geoff Denning
+Seconded by: Wayne Venables
+Result: Approved
+-------------
+
+Resource Room:
+- Micha isn't here to make a report
+- Wayne says that Micha wanted $100 per month plus another $100 per semester for the resource room.
+- Dario says finances suck. He will made a deposit tomorrow morning.
+- Motion will be tabled until next semester when someone takes over the resource room management from Micha.
+
+Photocopier:
+- Andrew says that he received a fax frlom Minolta guaranteeing a 5 year service contract.
+- Unfortunately the contact is on holidays for 2 more weeks. He asked for details of the lease agreement but hasn't heard back from them yet.
+- General consensus is that the copier needs to be replaced.
+- The copier is over 1,000,000 copies.
+- Andrew will talk to them and at least get them to service the machine.
+
+Banks:
+- Dario says Royal Bank is the best, without a doubt.
+- All the banks send their coin to Royal Bank, so that is why the other banks have a fee.
+- It'll cost us about $200 less for each deposit. Royal Bank is THE place to go.
+
+-------------
+Motion: Create a bank account at Royal Bank and transfer all funds from Scotia Bank, and notify the SFSS within the next 2 weeks.
+Moved by: Dario Arkus
+Seconded by: Chris Steinbach
+Result: Approved
+-------------
+
+Forum Rep:
+- Jason Reader says the Computing Science Forum Rep is officially on leave.
+- He will be back next semester and will be here for the first meeting in September.
+
+Social:
+- Wayne Venables needs money to organize the social.
+- Very little money available because of Tech Fair commitments.
+- No BBQ because of lack of volunteers.
+- We'll do extended movies and pizza throughout the day.
+- Dario will put up signs to advertise.
+- Social will take place on Friday, July 28th.
+
+First year BBQ next semester:
+- Jason suggests that Wayne contact Mike Pede and try to get some help
+- Will happen second Friday of next semester.
+
+-------------
+Motion: Establish a $500 budget for Wayne Venables to organize a CSSS BBQ next semester.
+Moved by: Wayne Venables
+Seconded by: Chris Steinbach.
+Result: Approved
+-------------
+
+CSSS Exec Social:
+- Wayne wants money to do _something_.
+- It will likely cost less than $50 so the executive can approve it at a later date.
+
+Anti-Calendar:
+- Dave Hirsch wants to set it up for next semester on the web.
+- It'll be just for computing science to start with.
+- Comments will be screened before they are posted on the site.
+- Jason says that if he needs funding, then bring it up next semester.
+- Dave is developing it on his own at home.
+
+Server Update:
+- Chris Demwell found a damaged part - CPU socket connection problem.
+- There is an RMA in progress.
+
+Open Floor:
+- Geoff Denning needs a budget for Tech Fair.
+
+-------------
+Motion: The CSSS extends authority to the executive to approve the payment of Tech Fair 2000 expenses.
+Moved by: Geoff Denning
+Seconded by: Wayne Venables
+Result: Approved
+-------------
+
+Wayne Venables moves to end meeting at 4:13 pm.

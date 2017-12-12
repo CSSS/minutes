@@ -1,0 +1,99 @@
+Minutes of the General Meeting June 30, 2004
+
+Attendance: (name/e-mail/affiliation)
+------------
+Jeff Sipko				major
+Jen Fernquist				major
+Amy Tran				major
+Parmit Chilana			major
+George Leung				major
+Alex Yang				major
+John Boxall			major
+Simon Kwok				major
+Angelica Lim				major
+Alex Ku					major
+Michael Schwartz		major
+Anthony Lam				major
+Robert Hetzler				chaotic neutral
+Troy Henke				major
+Tim Kim					major
+Johnson Yang				major
+Sepand Gojgini			major
+Eugene Chin				major
+
+Agenda:
+--------
+- Report of Officers
+- Approval of Minutes
+- Call for Mentorship Program Coordinators
+- CS First Week (Gotcha et al)
+- Tech Fair
+- Open Floor
+
+Meeting called to order at 12:36 by President Angelica Lim
+
+Reports of Officers
+--------------------
+
+VPA John:
+Paintball went successfully this weekend.  John gives his thanks to Jeremy and Morgan who attended.  However, John is bitter no one else came.  I think he might rent Gigli on Friday to punish us.
+T-shirts are selling well, more than half have been sold.  Too many smalls were ordered, evidently John had a midget dream or something.  He proposes we order more.  It would cost $550 for another 50 t-shirts, perhaps order some more blue this time since that was a popular colour, and less green since that's what makes up the bulk of we have left.  Looks like John thought there would be more Irish computer science majors than there actually are.
+Spiderman 2 is tonight at 7pm.  John asks what time he should make movie nights since some people can't go due to class on Wednesday evenings.  It is suggested he go with 9pm shows if it is a Friday.  He'll see what the next movie night brings.
+LAN party is Friday, July 2nd.  John has given the responsibility of organizing the event to Noah, so any inquiries should go to Noah.  Ahhh, sweet sweet delegation.
+There should be a Wings Night at some point after the LAN party, discussion will occur at the next General Meeting.
+And with that, John threw his cape over his shoulder and dashed off to become his alter ego, McFogg the Dawg, entertainer of children and crickets.
+
+President Angelica:
+Hattie Aitken, for those of you who don't know, has been taking care of the SFU student unions for the past 10 years.  She is now moving onto a different job, still within SFU but working with graduates.  She will no longer be our official contact to the SFSS.  A card is passed around to be signed and flowers will be bought.  A 21 gun salute was out of the question.
+Angelica talked to Tom Shermer who will be the associate director this fall at SFU Surrey.  He wants CSSS representation down there so they won't lose compsci majors to the interactive arts student union.  He suggested we hold a few events there this fall so they would feel included in the society.  It is mentioned that SFU Surrey can hold LAN Parties right in their labs.  Security questions were raised, but Troy says any SFU student can go down there and get issued a daypass by security so they can access the library and other facilities.
+Brandon, president of the EUSS, along with BASS and IATSU are getting together on July 15th to talk about what to do down in Surrey.  Angelica needs a couple volunteers to go with her to attend the meeting, preferably someone who knows the ins and outs of the society.  Mike Schwartz, the wily old veteran, volunteers as the representative of the "Grumpy Old Men" section of the Society.  Noah is appointed by Angelica because she has the power to do it.  No symbolic flexing from her though.
+
+Treasurer Jen:
+Jen's been keeping up with Friday rollings and Monday deposits.  There is currently $1400 in the bank, which is about $400 less than we usually have.  This is partly due to all the t-shirts not being sold yet and it may have been a slow week on the pop machine.
+There was a fax from Minolta, some stuff was overdue.  One cheque was late in getting there; those "get there fast" commercials from Canada Post lie! Another bill hadn't been paid yet, probably due to the transition period between executives.  It has now been paid, so Minolta won't be sending a few friendly Italian gentlemen our way.
+
+VPR Rob:
+The equipment in the MTF common room is regularly being abused.  Currently, the cue ball from the pool table is missing, and has been for several weeks.  Pool cues are consistently damaged as well.  Rob proposes two ways to deal with it: have a check-out system where csilop holds our equipment and sign it out to people who use it.  The problem is the equipment wouldn't be available anytime csilop is closed (after 5:30pm Mon-Sat and all day Sun).  This method is not guaranteed because we don't know if csilop is really willing to do this.  The second option is to take away all the equipment for say, two weeks, and put up a sign saying "Equipment removed due to abuse", then bring it back.  If it gets damaged again, take it away for longer periods of time.
+Since csilop already deals with our vending machines, it may be unfair for us to ask them to deal with our equipment.
+Card locks were suggested, like the type on the CSIL doors, so we could know who opened the boxes to the equipment.  Problem is, they cost $5000-10000.  Cameras were also suggested but they run pretty high in cost as well.  Egyptian pyramid traps were not discussed.
+An e-mail will be sent out to cmpt-students asking people to report abuse of equipment to csss-exec.
+There won't be a pop order this week since the cabinet is still pretty full.  Record amounts of Diet Coke are being sold.  A few theories are floating about: 1) Shermer, 2) people not usually buying soft drinks are buying it because it's hot out and they want something with low calories, 3) people really really want to get cancer.
+(A shriek interrupts Rob's report as Angelica does an impression of Michael Flatley in order to get rid of some bugs that have crawled onto her.  Sadly, no one knew a good Irish jig to whistle to accompany her performance.)
+Coke is not giving us Ruby Red Grapfruit for some reason this year.  Perhaps they're not selling it anymore? Or they're hoarding it all to themselves, selfish buggers.
+After much confusion, Rob finally figured out that if he asks for "Lemon Nestea Hot Brew", he gets lemon Nestea, but if he asks for Nestea, he gets Cool Nestea.  There is a collective "buh?" amongst the meeting attendees, but apparently that's how stupid the order person is at Coke.
+It's been a slow week in terms of pop sales, so Rob suggests more advertising.  Perhaps plastering the big lecture theatres with flyers like we did last year.  It would be good prep for doing it when the fall semester arrives so all the first years know where to go.  Since it'll only get hotter this summer, this is a good idea.
+
+Secretary Eugene:
+The minutes are on the website now if you want to view them there.
+There has been a change to meeting notices, they will appear on the website, through e-mail and on posters.  They won't be on Eye in the Sky anymore.
+
+Approval of minutes has been deferred to the end of the meeting so everyone can read them.
+
+Mentorship coordinators:
+--------------------------
+There has been only one meeting so far; there is another one on Friday, a joint one with the Frosh Committee.
+This is a mentor system for the first years.  A mentor will match up with an incoming first year, answer questions through e-mail.  Note: this is NOT a dating service.  Mentors will be at least 2nd year majors.
+There are at around 150 first years coming in, so to be successful, about 50 mentors will be needed.
+Positions needed: Recruitment coordinator to get mentors, Events coordinator to plan events between mentors and first years, Secretary to book meeting rooms and take minutes, Publicity coordinator to do the website and advertise
+Come to the meeting on Friday if you want to help out; 12:30 in ASB 9705.
+
+CS Firstweek:
+----------------
+The next meeting will be with the mentorship committee so their respective events don't conflict
+
+Tech Fair:
+-----------
+A budget has been made up.  Last year, companies were charged $850 each while previous years were around $600.  To keep the budget, we only need $700 per company, but consistency in price would be good.  Troy's thinking of charing $850 again, but offer $100 off if they pay up front; this leads to less problems down the road of collecting money.
+60 companies are on the call list right now, IBM is up at the top, and there is a meeting on Friday to keep calling them.
+On last year's survey, some companies said students weren't prepared so they needed to explain a lot about their companies.  Troy's thinking of offering a register service for students so they can put their resume online and provide material on the companies ahead of time.  The serious ones can properly prepare.  Incentive to register would be a door prize.  Once it gets working, they'll start advertising it.
+Troy suggests we get a grant from the SFSS since they like what we're doing with this.  We could get around $500.  The loan from the SFSS has already been approved.
+Mike babbles incoherently again (perhaps it's senility?), but thanks to the supermonkey from CSIL, we got a translation.  Mike motions to get up to $1000 in grants from the SFSS.  Jen seconds.  Motion passes.
+Troy is going to talk to Harriet to try to get more companies from the co-op side.
+
+Approval of minutes: 
+----------------------
+Motion to approve minutes by Amy.  Seconded by some random bag of mostly water.  Motion passes.
+
+
+Motion to adjourn, no objections.
+Meeting adjourned at 13:18.

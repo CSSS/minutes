@@ -1,0 +1,164 @@
+CSSS Meeting Mar. 17/2004
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Name			Email		Affliliation
+Omar-Sadique Mohamed		CMPT
+Yang Zhia				CMPT
+Sepand Gojgini			CMPT
+Robert Hetzler				caravan
+Paul Chan				Go guy
+Morgan Kowalski			undeclared
+Andy Lumb				CMPT
+Johnson Yang				CMPT
+Michele Lee				CMPT
+Sara Gouneili			CMPT
+Igor Faletski			CMPT
+John Boxall			CMPT
+Coureney Ryan				CMPT
+Max Whitney			CMPT
+Michael Schwartz			CMPT
+Bishnu Bhattacharya		CMPT
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Justin calls the meeting to order at 3:33pm.
+
+Report of the officers
+	VPR: pop still selling, very regularly. that's it.
+	VPA: 3 new events coming up. Inner tubing was postponed. Apparently
+		Semyour isn't as nice as we thought. Sign up, etc. up this/next
+		week. 28th is the current planned date.	End of semester social.
+		Kill Bill V2 on Sat. 2nd? April. Punisher looks like it will 
+		suck so we most likely won't do it. Shrek 2 is out in May, 
+		maybe, maybe not be in Noah's reign. App Sci formal. April 
+		23rd. Have likely guarantees of money, ready to stat 
+		advertising. Tickets currently $30 unsubsidized. There will be
+		a bar. Subsidy will be discussed. ~$400 total for 40 tickets.
+		DJ may end up being Noah's friend. Partying on with cheap room
+		packages is being looked into. 30-40 tickets are expected to be
+		sold. Max 1 per member + 1 guest. Money will be	requested next
+		meeting.
+	Treasurer: Gobs of money. Last deposit was around $3500 and is very
+		heavy. We have around $4000-4500. Core budget is suggested for
+		App Sci formal. These inaccurate numbers from the treasurer who
+		isn't here, meaning, from what people who did attend could
+		guess.
+	President: Nothing has happened. Nothing actually happened, unlike
+		last week.
+
+Minutes: 
+	***********************************************************************
+	Morgan motions to approve the minutes. Seconded by Andy. Motion passes.
+	***********************************************************************
+
+Tech Fair:
+	The continuance report from the last coordinator was received last
+	week or soish. A summary of what Tech Fair is is made. Work needs to 
+	be started right after exams are done. A leader is being requested.
+	Mike has had enough. He calls for hands, none go up.
+	Mike tries selling it again. There was a dismal showing last year.
+	There is some discussion about the engineers version and why the
+	showing was so bad last year for them.
+	It is pointed out that the volunteer team doesn't need to start now,
+	but needs to come together right after exams. The work load isn't that
+	bad if you have a team of eight or so.
+	It is mentioned that we may leave it for a year, but it's pointed out
+	that if we do we'll most likely never start again.
+	It is put away and people told to think about it.
+
+End of Semester Social:
+	The social will be the same old same old. Social will be April 6th.
+	The date is discussed. There is not much that can be done, so we'll
+	just need to keep this in mind when planning food and such. 
+	The budget is detailed. $1100. There is some discussion about how this
+	may be low compared to previous End of Semester Socials times.
+
+	***********************************************************************
+	Noah motions for up to $1500 to be spent on the End of Semester Social
+	with the intent of reclaiming $400 from pizza. Seconded by Courteney.
+	Motion Passes.
+	***********************************************************************
+
+	Noah calls for help because there is still a bunch of work to be done.
+	Join csss-social. More volunteers the morning of will be grabbed. There
+	is a meeting on Monday 3:30-4:30, room TBA.
+
+Open floor:
+	Andy: Andy starts. Rob raises his hand when he brings up the MTF. The
+	pool table is in bad shape. Omar mentioned that ball 13 is MIA, but
+	has been replaced. Andy asks for a list of missing balls. He's looking
+	into the foosball since it is also in a	bad shape.
+	Back to the topic at hand. New cues are needed. He is thinking of 
+	refelting the table. Refelting can be done at the bottom of the hill
+	for $320. Noah mentions that pool felt is really expensive. Security 
+	of the cues is discussed.
+
+	***********************************************************************
+	Andy motions to spend $450 to reequip the pool table. Including
+	refelting, new cues, new chalk, new balls, etc.
+	=======================================================================
+	There is some discussion on how much money it's costing us a ~$600
+	year since we've had it not even a year. It is mentioned that the
+	felt was already in questionable shape. The consensus is that it's
+	worth it. It is discussed that leaving only 2 cues out reduces chances
+	of cue breakages. Seeing if security can go around during the day is
+	discussed.
+	=======================================================================
+	It is amended and accepted that only 2 cues be left out at any one
+	time by Omar.
+	=======================================================================
+	Noah recommends keeping this in the continuounity report.
+
+	Seconded by Omar. Motion Passes.
+	***********************************************************************
+
+	Noah: Noah proposes to buy flowers for the CS office staff. Mike
+	defends it. It is planned to be a planned arrangement of about $200.
+	Andy brings up the NAG due to being helpful for lemma stuff. Zook is
+	also suggested for going out of the way. A large arrangement is
+	suggested with personal thanks to the special people. Delivery is
+	recommended. A call for somebody who knows flowers is suggested.
+	
+	***********************************************************************
+	Noah motions for $200 for a flower arrangement for the CS office staff.
+	Amended and accepted to $250 by Bishnu. Seconded by Morgan. Motion
+	passes.
+	***********************************************************************
+
+	Noah asks that donations to the food bank and child care be an agenda
+	item for next semester.
+
+	John brings up CS wear. Mike brings up that the previous wear was
+	horrible due to the logo. This guy proposes that over the summer a new
+	logo be designed. He wonders if	the CSSS would subsidize.
+	Bishnu asks who is 'we' that would put up the other $500 for the run.
+	Noah brings up that shirts were tried this last fall. The current logo
+	is a result of the logo contest.
+	Kyle asks about a company in mind to do this through. It is in
+	progress. Department subsidy is discussed. Justin tells John that he
+	will give him any information he needs and that if he is asking for
+	money he needs a budget. Wear types are	discussed. Using them for
+	first week and a test run mid summer is suggested.
+	
+	Kyle open floor time. Go SFU seems to have received enough complaints
+	that the interface will be done to fix the problems. Semester numbers
+	is at the top of the list along with browser compatibility. All of
+	this is from inside sources.
+	Apparently complaining works well. 
+	Justin wants the telereg voice back.
+	The amount of difference from the current system is discussed and will
+	most likely be limited to reduce head aches from upgrading.
+
+	***********************************************************************
+	Noah motions to adjourn.
+	Noah objects.
+	***********************************************************************
+
+	***********************************************************************
+	Noah motions to wish Andy a happy birthday. Seconded by Mike. Motion
+	passes.
+	***********************************************************************
+
+	The room proceeds to sing "Happy Birthday to Andy" horribly off key.
+
+	Mike motions to adjourn.
+Motion Adjourns at 4:41.PM
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=

@@ -1,0 +1,251 @@
+CSSS General Meeting Minutes - February 4,2004
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Attendance:
+Name                   Email                    Affiliation
+Chris Fawcett                           MACM
+Shayla Sawchenko                        CMPT major
+Kyle Richter                                 CMPT major
+Anthony Lam                                CMPT major
+Max Bitel                                 CMPT major
+Simeon Potts                             CMPT major
+Scott Paik                                 CMPT major
+Dominic Lau                              CMPT major
+Bishnu Bhattacharyya                    CMPT major
+Andy Lumb                                  CMPT major
+Noah Adams                                   MACM
+Sepand Gojgini                          CMPT major
+Michael Schwartz                        CMPT major
+Timothy Kim                                CMPT major
+Jeremy Holman                            CMPT 354
+Rowan Sawyer                            Misc.
+Yang Zhao                                  CMPT major
+Daryl Wawkins                           CMPT major
+Justin Price                             CMPT major
+John Boxall                             CMPT major
+Lyor Faletski                           CMPT major
+Jennifer Fernquist                          CMPT major
+Max Whitney                              CMPT major
+Nhan Nguyen                                  CMPT major
+Travis Brown                             CMPT major
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+President calls the meeting to order at 3:40pm
+Justin apologises for the meeting in the common room.
+
+1) Report of the Officers
+	President (Justin Price):
+		Nothing much to report.
+		All new officers have signing authority and it was done quickly.
+		Justin was unable to attend a school meeting 2 weeks ago, Noah
+		made gave an overview.
+		Justin mentioned that there is some grad recruitment going on
+		next Monday and so ended his report.
+
+	VP Resources (Andy Lumb):
+		Chris Fawcett complains about the non-existence of Ruby Red.
+		Andy has done basic pop numbers and the photocopier is running
+		as it usually does. Total current estimate of income from the
+		pop machine is $74/week. Chris comments that that seems low.
+
+	VP Activities (Noah Adams):
+		There was a WICS-CSSS joint meeting last weekend.
+		There will be a wings night next Tuesday at approximately 5:30.
+		  If funding passes it'll be free.
+		The next event may be a bowling nite on the 15th, the Sunday
+		  during the reading break.
+		LAN party on the 20th of February. Stuff will get booked, food
+		  will exist. The LAN will make use of the LAN supplies
+		  purchased last semester.
+		Considering having snow inner tubing at Cypress on the 6/7th of
+		  March.
+		Possibly a skating even on March 20th, maybe joint with UBC.
+		Formal later in the semester and more will be figured out later.		  
+		There is some talk about making sure that the room is booked.
+		Possibly a camping retreat at the end of semester or into
+		  summer. Allison lake was proposed.
+		There is currently an offer from the Engineering Student
+		  Society for movie tickets at $9 a ticket. There are currently
+		  no movies planned but it's cheap and a good idea.
+                *****************************************************************
+		Noah motions to spend up to $700 on movie vouchers. It is 
+		  seconded by Chris Fawcett. Motion passes.
+		Noah motions to spend up to $200 for wings and nachos for the
+		  wings night. Seconded by Chris Fawcett. Motion passes.
+		*****************************************************************
+
+		There is some discussion about the date of bowling, ending with
+		  people noting that Noah doesn't work all that hard currently.
+
+		*****************************************************************
+		Noah motions for money for bowling, $200. Bowling on Sunday the
+		  15th of February. Due to concerns about studying and such.
+		  Seconded by Andy. Motion passes.
+		*****************************************************************
+
+		There is some discussion about LAN party food.
+
+		******************************************************************
+		Noah motions for $150 for the LAN party on the 20th. Seconded
+		  by Simeon. Motion passes.
+		******************************************************************
+
+		There is some discussion about oranges.
+
+	Treasurer (Chris Fawcett):
+		Finances are fine, we have tons of money in the bank and money
+		  in the back room to be put in.
+		Income seems good, but Chris doubts Andy's estimates as low.
+
+	Secretary (Travis Brown):
+		Travis apologizes for the room, apparently there was a mixup.
+		Travis brings up the state of lemma and the fact that the
+		  current web page is being put up, but PHP is hating us.
+
+2) Tibi's TV item comes up, but since he's not here, Noah gives a summary that
+	it is a TV with the appropriate connections to attach to laptops so
+	that people don't need to hang around laptops.
+	Jeremy rants that it is a bad idea and that it in far too intrusive.
+
+3) Justin gives Andy open floor. Andy brings up that there has been some talk
+	of putting a Ramen machine into the MTF. The machine carries oriental
+	noodles and Asian snacks. It also includes a free hot water dispenser.
+	Jeremy ask if there is underwear in a can. Andy say no.
+	Justin brings up the cost. Andy mentions that it will not cost anything.
+	  Either a percentage back of sales, or $1000/year will be paid to the
+	  CSSS. Some adjustment is possible and Andy has asked to look at the
+	  contract.
+	There is discussion to bargain up to 25%. Justin brings up checking the
+	  contracts for the other food vending machines.
+	Chris asked about the location. Andy responds that a cabinet could be
+	  removed to make room.
+
+	************************************************************************
+	Andy motions to go ahead and get the vending machine at an appropriate
+	  percentage. CSIL, other contracts, etc. allowing. Seconded by Chris
+	  Fawcett. Motion passes.
+	************************************************************************
+
+3) Justin asks for other issues. None appear and Noah gets the floor.
+	Noah: Yesterday Greg Baker comes in and asks if the CSSS is sending
+	  somebody to a school meeting. An emergency school meeting was called.
+	  Noah went. The school is way below DTP targets. If 60 new people
+	  enter they are still around 100 FTEs short. There is a summary of
+	  the last 2 years of the numbers of new FTEs in the school. Currently
+	  the school is halfway through the DTO period and they are vastly
+	  behind. This is worth $700,000 cumulatively to the school.
+	  Differential tuition was also discussed.
+	  There was a motion in to lower the internal transfer GPA and to not
+	  advertise the direct entry GPA, but instead say that there are empty
+	  seats.
+	There is some discussion about the changes.
+	There is some discussion about who will make the vote that the CSSS is
+	  given. Justin explains how he does it.
+	Noah gives some numbers for the guaranteed entry program. Overall less
+	  that 50% of those in the program will not be going on in the CS program.
+	It is mentioned that this implies a dumbing down of courses.
+
+	There is then some discussion on the funding situation. The funding
+	  that the school already has is going to stay.
+	Noah states that the school currently has plenty of money, but that
+	  some feel that it is foolish to give away $700000.
+	Chris mentions that this may make the CS program a backdoor to English
+	  or such. Do we want to reduce the standing of the school?
+	Mike brings up the internal transfers. He asks if  they are going to
+	  change any of its requirements. Greg answers that changing the
+	  structure of anything like that requires a calendar change, which
+	  requires more than a year.
+	Noah asks if this motion would be a permanent change to the internal
+	  transfer GPA. Greg answers that it will most likely be a short term
+	  thing since it isn't intended to be a permanent change.
+	Greg says that he agrees with out take on the issue. He says that
+	  bringing people in just to kick them out would be to become like the
+	  Engineers this past semester. He says that he sees 3 possible
+	  outcomes:
+		1. Lower standards
+		2. More students requiring help
+		3. Kicking students out as soon as they enter
+	There is some discussion between Jeremy and Greg about the
+	  possibilities of these outcomes. It is mentioned that since the
+	  early admission date is near and that changing the required
+	  percentage is too late.
+	Noah mentions that maybe the BC registration system could be 'dealt
+	  with'
+	Justin mentions that the standing of the CS department in SFU has
+	  decreased somewhat, and that it is this reputation that draws good
+	  people.
+	Kyle questions how DTO helps the school. It is answered that it helps
+	  the faculty and research. Noah notes that there has been no increase
+	  in graduate support. Justin mentions that very little goes back to
+	  the undergrads.
+
+	Justin asks for anything else.
+	Noah proposes that the CSSS opposes any changes that would adversely
+	  affect the quality of the program. He also mentions in response to
+	  Kyle's thought that it would allow those who didn't do so well at
+	  high school but are good at CS to get in that there is little
+	  competition for seats.
+	Justin says that he feel that reduced tuition and increased recruitment
+	  would be better.
+	Justin calls for a motion on out position.
+
+	************************************************************************
+	Bishnu motions that we disagree with this ballot which has to do with
+	  reducing the GPA for internal transfers and reducing the entrance
+	  average from high school. Noah seconds.
+	Mike says the issue is making sure that these people graduate.
+	Motion passes.
+	*************************************************************************
+
+	Justin asks what we will do now that we have disagreed with it. Better
+	  recruitment is suggested. Justin wants something more immediate.
+	Noah suggest that everybody tell their opinion about this vote to
+	  their prof's, even if they don't know them all that well.
+	Greg returns and applauds Noah for his involvement.
+
+	Noah then goes about listing the positions that he felt people were
+	  holding in the meeting. He lists some prominent member of the faculty
+	  that are against it. He recaps with that Greg was right that it was
+	  too late to go for students now for the Fall semester.
+	Justin brings up that most people came here for the program reputation.
+	  He feels that we need to commit to helping the school with recruitment
+	  and retention. He also want the active community to grow.
+
+	There is some discussion on the improvements this year with the number
+	  of active first years. And it is considered good and that it will
+	  get better in the future.
+	Justin goes back to getting people to talk to their profs about how
+	  they do not want the program quality to be decreased.
+
+	There is some discussion about how the CSSS works and committees in
+	  general and Jeremy brings up that he feels that there is not enough
+	  decentralization of responsibilities within the CSSS.
+	Justin brings up that things work better when people spearhead things
+	  and asked if anybody would like to spearhead it and help get students
+	  to help out because there are more of us than there are faculty.
+	  Justin said he would start up a mailing list and send the information
+	  to cmpt-all. He also wants a paper petition started and the
+	  information put out to cmpt-students. It is planned to start this
+	  tonight.
+
+	The general consensus is to do the above.
+	
+	***************************************************************************
+	Noah motions for the CSSS to be in strong opposition to any policy of
+	  the school that would threaten the academic integrity of the program
+	  at the undergraduate level. Seconded by Bishnu. Motion passes.
+	***************************************************************************
+
+4) Justin calls for any other issues. None come up.
+	A letter will be drafted to the school and an email sent out to the
+	  students. A petition will be started tomorrow and the society will
+	  support the school's requests for help and find people to help.
+	A random passerby asks who is in charge of the CS website.
+	Justin asks again for other issues.
+	Yang brings up powerbars, Justin says he's getting to it. Kyle
+	  volunteers and Justin gives him money from discretionary funds.
+
+5) Jeremy motions to adjourn, none oppose.
+
+CSSS Meeting Adjourns.
