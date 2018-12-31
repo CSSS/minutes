@@ -41,21 +41,25 @@ VP-R's Report:
 -Rob notes that the little box in the common room is indeed not a suggestion box, but in fact a quote of the week box.
 
 -Ian begins his treasurer's report, outlines a budget:
-Revenue					Expenses
+Revenue					
 Photocopier				$3200
-Activities				$1500
 Pizza					$1000
-Donations				$500
 Pop						$3200
-Phone					$130
 SFSS					$400
-Copier(monthly)			$670
+
 Total:					$7800
 
+
+Expenses
+Activities				$1500
+Donations				$500
+Phone					$130
+Copier(monthly)			$670
 Copier(copy)			$1024
 Pizza					$1360
 Pop						$2200
 Misc.					$500
+
 Total:					$7884
 
 VP-A's report:
