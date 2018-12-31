@@ -31,57 +31,55 @@ Meeting called to order by Dan at 3:34pm. Ian still had not shown up so Noah mov
 Ian showed up about now.
 
 President's Report
-    -Clubs days
-            -Quite succesful
-	            -10 new signups, gave out a bunch of flyers
-		            -Photocopier usage up a whole bunch (3000 copies today) which is 50% more than normal
-			        -We hope to improve revenue this semester. It's going to be difficult since we have more expenses.
+	-Clubs days
+			-Quite succesful
+			-10 new signups, gave out a bunch of flyers
+			-Photocopier usage up a whole bunch (3000 copies today) which is 50% more than normal
+			-We hope to improve revenue this semester. It's going to be difficult since we have more expenses.
 
-				Financial Report (also made by Ian)
-				    -$50 in bank, $1100-$1200 in back room. We expect 500 to 800 more by the end of the week.
-				        -$342 owed to us by Lester's for Semester End Arcade Machines for some fee we paid that we shouldn't have. They said they would send a cheque, but they haven't, and emails have gone unanswered. Johnson volunteered to go to harassment level two: phone calls.
-					    -$2400 owed to us by 4 Tech Fair companies. Angelica volunteers to harass these companies for money.
-					    Questions (Financial):
-					        -Chris D asks why we don't get SFSS to handle TechFair finances, since they do a competent job. Ian responds the decision was made outside CSSS exec, doesn't know why but agrees it's a good idea.
-						    -Somebody asks if we can track how much Pop we sell. Ian says not exactly, but can roughly. Anyways, we average $350 a week each from the photocopier and the coke machine. This is Gross.
-						        -Noah asks about clarification for Photocopier Bill, this launches a whole thing that deserves it's own section (Gee thanks Noah):
+	Financial Report (also made by Ian)
+		-$50 in bank, $1100-$1200 in back room. We expect 500 to 800 more by the end of the week.
+		-$342 owed to us by Lester's for Semester End Arcade Machines for some fee we paid that we shouldn't have. They said they would send a cheque, but they haven't, and emails have gone unanswered. Johnson volunteered to go to harassment level two: phone calls.
+		-$2400 owed to us by 4 Tech Fair companies. Angelica volunteers to harass these companies for money.
+		
+		Questions (Financial):
+		-Chris D asks why we don't get SFSS to handle TechFair finances, since they do a competent job. Ian responds the decision was made outside CSSS exec, doesn't know why but agrees it's a good idea.
+		-Somebody asks if we can track how much Pop we sell. Ian says not exactly, but can roughly. Anyways, we average $350 a week each from the photocopier and the coke machine. This is Gross.
+		-Noah asks about clarification for Photocopier Bill, this launches a whole thing that deserves it's own section (Gee thanks Noah):
 
-							PHOTOCOPIER
-							We've had the new copier for 4 months, and the lease agreement that Minolta sent us Jan 2nd said $300/month. We don't know if this is retroactive or not-we *may* get a bill for $1200 soon. No separate money has been set aside. We may not have to pay it because 1.5 months ago Minolta rep told we would not have to pay for some problems with our old photocopier. Shaun is going to contact this guy ASAP and straighten this thing out. Then,
+	PHOTOCOPIER
+		We've had the new copier for 4 months, and the lease agreement that Minolta sent us Jan 2nd said $300/month. We don't know if this is retroactive or not-we *may* get a bill for $1200 soon. No separate money has been set aside. We may not have to pay it because 1.5 months ago Minolta rep told we would not have to pay for some problems with our old photocopier. Shaun is going to contact this guy ASAP and straighten this thing out. Then,
 
-							CHRIS D motions to set aside $1000 for this Minolta bill right now, and increase that for the best estimate for this bill by the end of the month. By setting aside he means simply having the treasurer make a note of this bill and not spending the money, rather than opening a separate account for it. SUNDEEP seconds. Motion passes.
+		CHRIS D motions to set aside $1000 for this Minolta bill right now, and increase that for the best estimate for this bill by the end of the month. By setting aside he means simply having the treasurer make a note of this bill and not spending the money, rather than opening a separate account for it. SUNDEEP seconds. Motion passes.
 
-							We now return to the Financial Report Question Period:
+	We now return to the Financial Report Question Period:
+		-Micha asks about the situation with the money owed by Lester, Johnson says he'll try and contact him. (I said this already)
+		-Micha suggests it's hard for the Treasurer to keep track of all cash movements, wants treasurer more involved in physical aspects of it (Examples such as Double Signing of cheques, etc., brought up). Chris D says this is a bad idea since it was done before and there were problems with people signing blank cheques, signing cheques without knowing what they were for, etc. Ian says that sometimes the CSSS needs money *now* and the treasurer can't be up 24/7 so it's not feasible. Chris suggests training all executives how to keep financial records, etc. No real decision is made because no one really thought about it at great length, but it's at the back of our minds now, and we may revisit it later.
+		-Good lord, finally Financial is done.
 
-							    -Micha asks about the situation with the money owed by Lester, Johnson says he'll try and contact him. (I said this already)
-							        -Micha suggests it's hard for the Treasurer to keep track of all cash movements, wants treasurer more involved in physical aspects of it (Examples such as Double Signing of cheques, etc., brought up). Chris D says this is a bad idea since it was done before and there were problems with people signing blank cheques, signing cheques without knowing what they were for, etc. Ian says that sometimes the CSSS needs money *now* and the treasurer can't be up 24/7 so it's not feasible. Chris suggests training all executives how to keep financial records, etc. No real decision is made because no one really thought about it at great length, but it's at the back of our minds now, and we may revisit it later.
-								    -Good lord, finally Financial is done.
+	uCC Report (Also by Ian, he is SUPERMAN)
+		-People want to make Software Engineering program an Honors program, since there are 15 req'd upper level CMPT courses, rather than 10. Chris D believes the Senate must authorize a new honours program, it may not be only the school's decision to make. Ian also mentions they want a close a loophole where someone declares SE stream, takes more than 3 courses, then drops out. We all want this loophole closed, but no decision made on the honours issue.
+		-Also, contents of 308 were voted to be required at faculty retreat. Talk of "pushing down" CMPT101 and 201 to put some of that material in. Some people mad that it shifts balance between theory and applied courses.
+		-Multimedia stream, there's a problem with req'd courses not being offered.
+	
+	ACTIVITY REPORT (BY DAN)
+		-Wants to do a Pub Night monday subsidized by CSSS. 20-30 people, cost is about $100. Wants this to be a trial for possible regular pub nights.
+		-Chris D believes it will damage our reputation as a mature, responsible student organization.
+		-Ian, Micha disagree. Tom Shermer believes we are quite "stodgy" according to Ian, and Micha wants to alleviate our "conservative image"
+		-Bishnu says we're alienating people under the age of 19.
+		-Sundeep asks about options for non drinkers, at this point we have none.
+		-Micha suggests bringning our own pop, and keeping pub night to the lower levels. This is accepted by Dan.
+		-Chris D still believes we are ignoring non-drinkers, because one can drink pop anywhere.
+		-Shaun suggests a Beer Garden, Dan says it's too hard to organize by monday.
 
-								    UCC Report (Also by Ian, he is SUPERMAN)
-								        -People want to make Software Engineering program an Honors program, since there are 15 req'd upper level CMPT courses, rather than 10. Chris D believes the Senate must authorize a new honours program, it may not be only the school's decision to make. Ian also mentions they want a close a loophole where someone declares SE stream, takes more than 3 courses, then drops out. We all want this loophole closed, but no decision made on the honours issue.
-									    -Also, contents of 308 were voted to be required at faculty retreat. Talk of "pushing down" CMPT101 and 201 to put some of that material in. Some people mad that it shifts balance between theory and applied courses.
-									        -Multimedia stream, there's a problem with req'd courses not being offered.
+		DAN motions for up to $150 to subsidize a pub night Jan 21st as a trial for maybe having them on a regular basis, with pop supplied by CSSS for non drinkers. Bishnu 2nded. Motion passes with 7 for, 2 against, and 13 abstentions.
 
-										ACTIVITY REPORT (BY DAN)
-										    -Wants to do a Pub Night monday subsidized by CSSS. 20-30 people, cost is about $100. Wants this to be a trial for possible regular pub nights.
-										        -Chris D believes it will damage our reputation as a mature, responsible student organization.
-											    -Ian, Micha disagree. Tom Shermer believes we are quite "stodgy" according to Ian, and Micha wants to alleviate our "conservative image"
-											        -Bishnu says we're alienating people under the age of 19.
-												    -Sundeep asks about options for non drinkers, at this point we have none.
-												        -Micha suggests bringning our own pop, and keeping pub night to the lower levels. This is accepted by Dan.
-													    -Chris D still believes we are ignoring non-drinkers, because one can drink pop anywhere.
-													        -Shaun suggests a Beer Garden, Dan says it's too hard to organize by monday.
+		-Dan wants input for upcoming movie nights. Suggests Ice Age, ET, Spiderman. ET support lukewarm. SW2 is for NEXT semester to deal with.
+		-Sundeep mentions LAN party over reading break. People like this idea. Chris D warns people might break machines and try to get us to pay, Dan says we'll make them sign waivers.
+		-Noah brings up a Beer Garden again (he likes his beer), Dan says to see the response to pub night and make a decision.
 
-														DAN motions for up to $150 to subsidize a pub night Jan 21st as a trial for maybe having them on a regular basis, with pop supplied by CSSS for non drinkers. Bishnu 2nded. Motion passes with 7 for, 2 against, and 13 abstentions.
+	OPEN FLOOR
+		-Sundeep asks when is next meeting, probably in 2-3 weeks.
 
-														    -Dan wants input for upcoming movie nights. Suggests Ice Age, ET, Spiderman. ET support lukewarm. SW2 is for NEXT semester to deal with.
-														        -Sundeep mentions LAN party over reading break. People like this idea. Chris D warns people might break machines and try to get us to pay, Dan says we'll make them sign waivers.
-															    -Noah brings up a Beer Garden again (he likes his beer), Dan says to see the response to pub night and make a decision.
-
-															    OPEN FLOOR
-															        -Sundeep asks when is next meeting, probably in 2-3 weeks.
-
-																BISHNU makes motion to adjourn, DAN seconds, motion passes. Meeting adjourned at 4:29.
-
-																Well that was exciting. And it took over an hour. I hope you read the whole thing. I'm missing Enterprise to write this.
-
+BISHNU makes motion to adjourn, DAN seconds, motion passes. Meeting adjourned at 4:29.
+Well that was exciting. And it took over an hour. I hope you read the whole thing. I'm missing Enterprise to write this.
